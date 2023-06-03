@@ -3,4 +3,4 @@
 Plot of StarCraft in Chinese and English
 
 
-Read the plot [here](/plot/).
+Read the plot [here](/plot/README.MD).
