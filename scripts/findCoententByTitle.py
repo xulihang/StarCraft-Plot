@@ -13,7 +13,7 @@ for line in f.readlines():
                     if en.split("||")[1].replace("\"","").isupper():
                         print(line)
                         if title!="":
-                            fw=open(title+".txt","w",encoding="utf-8")
+                            fw=open(title.replace(" ","_")+".txt","w",encoding="utf-8")
                             fw.write(content)
                             fw.close()
                         title=en.split("||")[1].replace("\"","") ####
