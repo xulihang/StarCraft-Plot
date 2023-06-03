@@ -30,27 +30,27 @@ Do you think they suspect anything, my Queen?->我的女皇，他们会怀疑我
 
 Of course. They aren't stupid, Duran. They're siding with the evil they know over the evil they don't... They simply don't yet realize what it will cost them.->当然了。他们并不笨，杜兰。他们知||道自己在支持邪恶但不知道邪恶之后||会如何…他们只不过还没有认识到将||为此付出多大代价罢了。
 
-               Cerebrate, I want you to infest as many Terran command ||->               脑虫，我要你感染尽可能多的人族指挥中心。||
+Cerebrate, I want you to infest as many Terran command ||->脑虫，我要你感染尽可能多的人族指挥中心。||
 
-               centers as possible. Once they're infested, we'll be able ||->               它们被感染后，我们将可以在对柯哈尔的进攻||
+centers as possible. Once they're infested, we'll be able ||->它们被感染后，我们将可以在对柯哈尔的进攻||
 
-               to use them in our coming assault on Korhal.->               中使用它们。
+to use them in our coming assault on Korhal.->中使用它们。
 
              - Infest command centers for next mission.->             - 为下一关感染尽可能多的指挥中心。
 
-               Remember, Cerebrate, we'll need at least ten thousand ||->               记住，脑虫，我们需要至少一万个水晶以维持||
+Remember, Cerebrate, we'll need at least ten thousand ||->记住，脑虫，我们需要至少一万个水晶以维持||
 
-               units of crystals to maintain the hive clusters. Don't come||->               蜂房。少一个子也不要回来。
+units of crystals to maintain the hive clusters. Don't come||->蜂房。少一个子也不要回来。
 
-               back with anything less!->               
+back with anything less!->
 
-               It is difficult to believe that I am working along||->               很难相信我正在和我最大的敌人一起||
+It is difficult to believe that I am working along||->很难相信我正在和我最大的敌人一起||
 
-               side my greatest enemy in order to save this sector.||->               工作以拯救这个区域。命运最近对我||
+side my greatest enemy in order to save this sector.||->工作以拯救这个区域。命运最近对我||
 
-               Fortune has been whimsical of late.->               总是显得反复无常。
+Fortune has been whimsical of late.->总是显得反复无常。
 
-               You sound like a tired old man, Fenix!->               你听起来像个厌倦的老头子，费尼克斯！
+You sound like a tired old man, Fenix!->你听起来像个厌倦的老头子，费尼克斯！
 
               Don't let the fact that I am three hundred and sixty eight ||->              不要让我比你老三百六十八年的事实模糊了你||
 
@@ -58,25 +58,25 @@ Of course. They aren't stupid, Duran. They're siding with the evil they know ove
 
               Raynor. I can still... how do you Terrans say it... ||->              类有句话怎么说来着…
 
-               I stand corrected.->               我想的没错。
+I stand corrected.->我想的没错。
 
-               It is strange that this Kel-Morian Combine continues to ||->               真奇怪克尔莫里安联合体仍然会在UED疯狂进||
+It is strange that this Kel-Morian Combine continues to ||->真奇怪克尔莫里安联合体仍然会在UED疯狂进||
 
-               operate while the UED grips the Dominion with an iron ||->               攻帝国的时候继续他们的运转。我再也不会小||
+operate while the UED grips the Dominion with an iron ||->攻帝国的时候继续他们的运转。我再也不会小||
 
-               fist. I'll never underestimate the motivational effects of ||->               看人类的贪婪给他们带来的刺激效果了。
+fist. I'll never underestimate the motivational effects of ||->看人类的贪婪给他们带来的刺激效果了。
 
-               Terran greed again!->               
+Terran greed again!->
 
-               I prefer large scale battles over these covert missions. ||->               相对于这些小任务我更倾向于大规模的战斗。||
+I prefer large scale battles over these covert missions. ||->相对于这些小任务我更倾向于大规模的战斗。||
 
-               My heart longs for the epic struggles of my youth, to ||->               我的心渴望着年轻时所经历的史诗般的奋斗，||
+My heart longs for the epic struggles of my youth, to ||->我的心渴望着年轻时所经历的史诗般的奋斗，||
 
-               go into battle alongside my Protoss brethren again. Ah, ||->               去再次和我的神族兄弟们并肩作战。啊，但是||
+go into battle alongside my Protoss brethren again. Ah, ||->去再次和我的神族兄弟们并肩作战。啊，但是||
 
-               but time will tell all things.->               时间说明了一切。
+but time will tell all things.->时间说明了一切。
 
-               Kerrigan, we have reached our resource quota, and will ||->               凯瑞甘，我们已经满足了资源限额，并且将赶||
+Kerrigan, we have reached our resource quota, and will ||->凯瑞甘，我们已经满足了资源限额，并且将赶||
 
-               be returning to Tarsonis.->               回塔尔苏尼斯。
+be returning to Tarsonis.->回塔尔苏尼斯。
 

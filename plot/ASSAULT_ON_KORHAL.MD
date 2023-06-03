@@ -1,6 +1,6 @@
 ||"ASSAULT ON KORHAL"||||UED Flagship Aleksander, low orbit over the planet Korhal; Dominion throne-world||->||"袭击柯哈尔"||||人族帝国主星行星柯哈尔低轨道||UED舰队旗舰亚历山大号||
 
-- Destroy the enemy physics labs||               -OR-||- Destroy the enemy nuclear silos.->- 摧毁敌方的物理研究所。||            - 或者 -||- 摧毁敌方的核导弹发射井。
+- Destroy the enemy physics labs||-OR-||- Destroy the enemy nuclear silos.->- 摧毁敌方的物理研究所。||            - 或者 -||- 摧毁敌方的核导弹发射井。
 
 Captain, once again your leadership has set a fine example to the rest of my officers. Vice Admiral Stukov has informed me that the Psi Disrupter has been accounted for, so we can now proceed with the next phase of our operation. The time has come to begin our primary invasion of the Dominion Throne-world of Korhal. Alexei, fill the Captain in on the current situation.->指挥官，你的领导才能再一次为其他||的军官们树立了良好的榜样。斯图可||夫中将向我汇报幽能干扰器已经被适||当处理，那么我们可以实施下一步作||战计划了。正式开始我们对帝国主星||柯哈尔的主攻的时机已到。阿列克斯||，向指挥官汇报一下当前的情况。
 
@@ -12,13 +12,13 @@ We also face a different obstacle, Captain. Intelligence has informed us that Me
 
 Though we know how to compensate for Mengsk's defenses, we don't have enough time to follow through on them both. Therefore, Captain, you must choose to either counter his nuclear capabilities or his battlecruisers. Once you've taken care of this operation, we can begin to plan our final assault against Augustgrad.->虽然我们知道该如何对付蒙斯克的防||御，我们却没有足够的时间把这两个||步骤逐一完成。因此，指挥官，你只||能选择摧毁他的核能力或者巡洋战舰||中的一样。一旦你完成了这次行动，||我们就可以发动对奥古斯特格勒的最||后总攻了。
 
-               Well done, Captain. We won't need to worry about ||->               干得好，指挥官。当我们包围蒙斯克的皇宫时||
+Well done, Captain. We won't need to worry about ||->干得好，指挥官。当我们包围蒙斯克的皇宫时||
 
-               nukes when we siege Mengsk's palace.->               候不再需要担心核导弹了。
+nukes when we siege Mengsk's palace.->候不再需要担心核导弹了。
 
-               Superbly done, Captain. Mengsk's battlecruisers are ||->               干的非常好，指挥官。蒙斯克的巡洋战舰已经||
+Superbly done, Captain. Mengsk's battlecruisers are ||->干的非常好，指挥官。蒙斯克的巡洋战舰已经||
 
-               now effectively powerless. He won't be able to use ||->               失效了。当我们进攻他的宫殿时他将不再能使||
+now effectively powerless. He won't be able to use ||->失效了。当我们进攻他的宫殿时他将不再能使||
 
-               them against us when we assault his palace.->               用它们来对付我们了。
+them against us when we assault his palace.->用它们来对付我们了。
 

@@ -24,33 +24,33 @@ My children, you must put aside your fears and misgivings to accomplish what mus
 
 We will do what you ask, Matriarch. But you cannot expect us to forgive Kerrigan's crimes against our race! Executor, prepare our forces. We shall debark for the planet Braxis before the next moonrise.->我们会遵从您的命令，酋长女士。但||是你不能指望我们宽恕凯瑞甘对我们||族人所犯下的罪行。执行官，准备好||我们的部队，我们将在月亮升起之前||登陆布拉克西斯。
 
-               Explain something to me,  Zeratul. Why would your people leave||->               给我讲讲，泽拉托，你们怎么能让如此珍贵的||
+Explain something to me,  Zeratul. Why would your people leave||->给我讲讲，泽拉托，你们怎么能让如此珍贵的||
 
-               such a sacred crystal in the hands of these Terrans?->               水晶落在这些人类手上？
+such a sacred crystal in the hands of these Terrans?->水晶落在这些人类手上？
 
-               We didn't. Long ago, this world was a Protoss colony called||->               许久以前，这个星球曾经是个被叫做克拉多尔||
+We didn't. Long ago, this world was a Protoss colony called||->许久以前，这个星球曾经是个被叫做克拉多尔||
 
-               Khyrador. When the strife between our tribes escalated, this||->               的神族聚居地。后来随着部落间的冲突不断升||
+Khyrador. When the strife between our tribes escalated, this||->的神族聚居地。后来随着部落间的冲突不断升||
 
-               planet and the Uraj Crystal were abandoned. These Terrans||->               级，这个星球以及乌拉什水晶便被一同遗弃了。||
+planet and the Uraj Crystal were abandoned. These Terrans||->级，这个星球以及乌拉什水晶便被一同遗弃了。||
 
-               have come here only recently.->               这些人族只是最近才来到这里的。
+have come here only recently.->这些人族只是最近才来到这里的。
 
-               Executor, we have a problem. Our warp matrix was damaged||->               执行官，出问题了。我们的传送主机在运送过||
+Executor, we have a problem. Our warp matrix was damaged||->执行官，出问题了。我们的传送主机在运送过||
 
-               during transit. Because of the extensive damage, we will be||->               程中被损坏了。由于多处受损，我们将无法把||
+during transit. Because of the extensive damage, we will be||->程中被损坏了。由于多处受损，我们将无法把||
 
-               unable to warp-in stargates to this location!->              星际之门传送到这个地点。
+unable to warp-in stargates to this location!->              星际之门传送到这个地点。
 
-               The Crystal's here, boys!  Send in a probe to gather||->               水晶在这里，伙计们！派个探针过来把它收集||
+The Crystal's here, boys!  Send in a probe to gather||->水晶在这里，伙计们！派个探针过来把它收集||
 
-               it up and our work here is done.->               起来后我们的任务就完成了。
+it up and our work here is done.->起来后我们的任务就完成了。
 
-               You have done well, Kerrigan.  There is more ||->               你做的很好，凯瑞甘。你比从表面上看似乎更||
+You have done well, Kerrigan.  There is more ||->你做的很好，凯瑞甘。你比从表面上看似乎更||
 
-               to you than it seems.  Perhaps I have misjudged you.->               有内涵。也许我当初错看你了。
+to you than it seems.  Perhaps I have misjudged you.->有内涵。也许我当初错看你了。
 
-               Given our history, I can't say I blame ya'.  Let's||->               鉴于我们的过去，我也不能怪你什么。我们把||
+Given our history, I can't say I blame ya'.  Let's||->鉴于我们的过去，我也不能怪你什么。我们把||
 
-               just get the job done.->               活儿干完就是了。
+just get the job done.->活儿干完就是了。
 

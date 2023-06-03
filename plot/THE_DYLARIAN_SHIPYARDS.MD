@@ -20,75 +20,75 @@ Only too well, Gerard. Captain, when you are ready, you may commence with the op
 
 Battlecruisers Acquired->巡洋战舰已获得
 
-               Once your forces have landed, Captain, you'll need to escort our||->               当你的部队降落后，指挥官，你须要把我们的||
+Once your forces have landed, Captain, you'll need to escort our||->当你的部队降落后，指挥官，你须要把我们的||
 
-               pilots to the battlecruisers themselves. They will be able to||->               飞行员护送到巡洋战舰。他们到时会接管战舰||
+pilots to the battlecruisers themselves. They will be able to||->飞行员护送到巡洋战舰。他们到时会接管战舰||
 
-               commandeer the ships and turn them over to our control.->               然后将它们转变到我们的控制之下。
+commandeer the ships and turn them over to our control.->然后将它们转变到我们的控制之下。
 
-               All right, troops, listen up! Each squad will have a Medic assigned||->               好啦，队员们，注意听好了！每一个小队都会||
+All right, troops, listen up! Each squad will have a Medic assigned||->好啦，队员们，注意听好了！每一个小队都会||
 
-               to it to patch up the wounded. But that doesn't mean you can get||->               被分派一名医护兵以照看伤员。但那不等于你||
+to it to patch up the wounded. But that doesn't mean you can get||->被分派一名医护兵以照看伤员。但那不等于你||
 
-               careless! Stay frosty and get the job done!->               们就可以粗心大意！保持冷静把活儿干完！
+careless! Stay frosty and get the job done!->们就可以粗心大意！保持冷静把活儿干完！
 
 Battlecruiser Operational->巡洋战舰运转正常
 
-                Sir, permission to blind that tank with an Optical Flare.->                长官，请求使用闪光弹将那辆坦克致盲。
+ Sir, permission to blind that tank with an Optical Flare.-> 长官，请求使用闪光弹将那辆坦克致盲。
 
-                Sir, the nuke silos are secured. We've got four nukes on||->                长官，核弹发射井已被安全控制。我们共有四||
+ Sir, the nuke silos are secured. We've got four nukes on||-> 长官，核弹发射井已被安全控制。我们共有四||
 
-                standby, awaiting your orders.->                颗核弹待命。等候您的指令。
+ standby, awaiting your orders.-> 颗核弹待命。等候您的指令。
 
-                Heads up, we got company!->                当心！我们有麻烦来了！
+ Heads up, we got company!-> 当心！我们有麻烦来了！
 
-               We gotta shake this lockdown pronto!||->               我们得赶紧把这个锁定效果清除掉！
+We gotta shake this lockdown pronto!||->我们得赶紧把这个锁定效果清除掉！
 
-               Medic! Restore us!->               医护兵！恢复我们！
+Medic! Restore us!->医护兵！恢复我们！
 
-                Captain, we are tracking a large fleet of Dominion ships||->                指挥官，我们在你周围正追踪到一只庞大的帝||
+ Captain, we are tracking a large fleet of Dominion ships||-> 指挥官，我们在你周围正追踪到一只庞大的帝||
 
-                in your vicinity.->                国舰队。
+ in your vicinity.-> 国舰队。
 
-               Ahh, this must be the reinforcements that Lieutenant||->               啊，这一定就是杜兰少尉所提到的援兵。指挥||
+Ahh, this must be the reinforcements that Lieutenant||->啊，这一定就是杜兰少尉所提到的援兵。指挥||
 
-               Duran warned us about. Captain, prepare our newly||->               官，让我们新获得的舰队做好与侵入者战斗的||
+Duran warned us about. Captain, prepare our newly||->官，让我们新获得的舰队做好与侵入者战斗的||
 
-               acquired fleet to battle the intruders!->               准备。
+acquired fleet to battle the intruders!->准备。
 
-               Captain, we are being hailed by the Dominion flagship, ||->               指挥官，我们正在接收来自于帝国旗舰，诺拉||
+Captain, we are being hailed by the Dominion flagship, ||->指挥官，我们正在接收来自于帝国旗舰，诺拉||
 
-               Norad III.->               德三号的讯息。
+Norad III.->德三号的讯息。
 
-               Well, now. I don't know which militia you all are from, ||->               这个…我不知道你们这帮民兵是打哪儿来的，||
+Well, now. I don't know which militia you all are from, ||->这个…我不知道你们这帮民兵是打哪儿来的，||
 
-               but I advise ya' to back down... NOW! I'm General ||->               但我告诫你们打哪儿来回哪儿去…越快越好！||
+but I advise ya' to back down... NOW! I'm General ||->但我告诫你们打哪儿来回哪儿去…越快越好！||
 
-               Edmund Duke of the Dominion armada. And in the ||->               我是帝国舰队的艾德蒙得·杜克将军。以蒙斯||
+Edmund Duke of the Dominion armada. And in the ||->我是帝国舰队的艾德蒙得·杜克将军。以蒙斯||
 
-               name of Emperor Mengsk, I order you to surrender your ||->               克皇帝陛下的名义，我命令你们立刻无条件的||
+name of Emperor Mengsk, I order you to surrender your ||->克皇帝陛下的名义，我命令你们立刻无条件的||
 
-               forces immediately and unconditionally.->               投降。
+forces immediately and unconditionally.->投降。
 
-               Ah, General Duke. I expected your forces to arrive sooner. ||->               哈，杜克将军。我本以为你的部队会早些到达||
+Ah, General Duke. I expected your forces to arrive sooner. ||->哈，杜克将军。我本以为你的部队会早些到达||
 
-               You should know that we represent not one of your rag-tag ||->               的。你应该明白我们所代表的不是你们任何一||
+You should know that we represent not one of your rag-tag ||->的。你应该明白我们所代表的不是你们任何一||
 
-               peasant Militias, but the combined might of the United Earth ||->               支破烂的农民起义军，而是来自于地球联合理||
+peasant Militias, but the combined might of the United Earth ||->支破烂的农民起义军，而是来自于地球联合理||
 
-               Directorate.->               事会的联合力量。
+Directorate.->事会的联合力量。
 
-               Earth Directorate? You mean to tell me you've come all ||->               地球理事会？你是说你们是从地球千里迢迢过||
+Earth Directorate? You mean to tell me you've come all ||->地球理事会？你是说你们是从地球千里迢迢过||
 
-               the way out here from Earth?->               来的？
+the way out here from Earth?->来的？
 
-               That is correct, General. We're here to take control over ||->               正确，将军。我们是为全人类的幸福来接管本||
+That is correct, General. We're here to take control over ||->正确，将军。我们是为全人类的幸福来接管本||
 
-               this sector and its occupants for the betterment of mankind.->               区域及其内的所有居住者的。
+this sector and its occupants for the betterment of mankind.->区域及其内的所有居住者的。
 
-               Over my dead body. I don't care where yer' from, son. ||->               除非我死了。我才不管你们是从哪儿来的，小||
+Over my dead body. I don't care where yer' from, son. ||->除非我死了。我才不管你们是从哪儿来的，小||
 
-               No one pushes around the Terran Dominion on my watch! ||->               子！没有人敢在我的眼皮底下对人族帝国指东||
+No one pushes around the Terran Dominion on my watch! ||->子！没有人敢在我的眼皮底下对人族帝国指东||
 
-               All units, fire at will!->               划西。所有部队，开火！
+All units, fire at will!->划西。所有部队，开火！
 

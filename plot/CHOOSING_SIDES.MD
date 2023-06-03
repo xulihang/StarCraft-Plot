@@ -20,35 +20,35 @@ Only the Dark Templar's power can truly harm the Zerg. That is why we must rescu
 
 You were warned, Executor. The Conclave will not be pleased.->你得注意了，执行官。最高议会会||不高兴的。
 
-               Protoss Commander, this is General ||->               神族指挥官，这里是人族守卫舰队的杜||
+Protoss Commander, this is General ||->神族指挥官，这里是人族守卫舰队的杜||
 
-               Edmund Duke of the Terran Dominion ||->               克将军。你们已经侵犯我们的领空，而||
+Edmund Duke of the Terran Dominion ||->克将军。你们已经侵犯我们的领空，而||
 
-               Armada. You are in violation of our ||->               且对虫族的鲁莽攻击也严重地威胁我们||
+Armada. You are in violation of our ||->且对虫族的鲁莽攻击也严重地威胁我们||
 
-               air-space and have endangered human ||->               的安全。我命令你立刻撤回你的军舰。||
+air-space and have endangered human ||->的安全。我命令你立刻撤回你的军舰。||
 
-               lives in your reckless attack against the ||->               如果你违抗，我将毫不犹豫地下令向你||
+lives in your reckless attack against the ||->如果你违抗，我将毫不犹豫地下令向你||
 
-               Zerg. I order you to withdraw your ships||->               的舰队开火。||
+Zerg. I order you to withdraw your ships||->的舰队开火。||
 
-               immediately. If you fail to comply, i will not ||->       ||
+immediately. If you fail to comply, i will not ||->       ||
 
-               hesitate to open fire upon your vessels.->          || 
+hesitate to open fire upon your vessels.->          || 
 
-               General Duke, I am Tassadar, and you are ||->               杜克将军，我是塔萨达！对于你，我很||
+General Duke, I am Tassadar, and you are ||->杜克将军，我是塔萨达！对于你，我很||
 
-               well known to me. Whatever leniency I ||->               了解。看来我以前对你和你的部队的仁||
+well known to me. Whatever leniency I ||->了解。看来我以前对你和你的部队的仁||
 
-               extended to you and your comrades before, ||->               慈是个错误的决定。如果你仍要阻碍我||
+extended to you and your comrades before, ||->慈是个错误的决定。如果你仍要阻碍我||
 
-               may have been in error. If you persist in ||->               们的行动，我将燃烧你那可怜的舰队，||
+may have been in error. If you persist in ||->们的行动，我将燃烧你那可怜的舰队，||
 
-               halting our course, we will burn your ||->               不会让任何一个人类生存！||
+halting our course, we will burn your ||->不会让任何一个人类生存！||
 
-               pathetic fleet down to the last man.->               
+pathetic fleet down to the last man.->
 
-               I'm going to have to assume that was a ||->               那好……||
+I'm going to have to assume that was a ||->那好……||
 
-               hostile response...->               我们走着瞧……
+hostile response...->我们走着瞧……
 

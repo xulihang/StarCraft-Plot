@@ -12,23 +12,23 @@ We've discussed this plan a hundred times! Commence the damn attack!->我们已�
 
 Hah... Very well, Arcturus. Before the next sunrise, Korhal will be yours once again.->哈…好吧，阿克特鲁斯。下一次太阳||升起之前，柯哈尔将会再一次地属于||你。
 
-               As I suspected... The UED has sent its pet Zerg to reinforce ||->               正如我所预料的…… UED把他们的虫族小宠物||
+As I suspected... The UED has sent its pet Zerg to reinforce ||->正如我所预料的…… UED把他们的虫族小宠物||
 
-               their troops. But strangely enough, there aren't very many ||->               派来支援他们的部队。奇怪的是由虫族发动的||
+their troops. But strangely enough, there aren't very many ||->派来支援他们的部队。奇怪的是由虫族发动的||
 
-               Zerg attacking. Maybe the UED is having more difficulty ||->               攻击并不是很多。也许 UED对主宰的控制比我||
+Zerg attacking. Maybe the UED is having more difficulty ||->攻击并不是很多。也许 UED对主宰的控制比我||
 
-               controlling the Overmind than I thought?->               原先估计的要更困难？
+controlling the Overmind than I thought?->原先估计的要更困难？
 
-               Excellent work, my Cerebrate! The UED's defenses are broken. Arcturus, you may take ->               干得好，我的脑虫！ UED的防御正在瓦解。阿||
+Excellent work, my Cerebrate! The UED's defenses are broken. Arcturus, you may take ->干得好，我的脑虫！ UED的防御正在瓦解。阿||
 
-possession of this world with my blessings. ->               克特鲁斯，你可以接管这个星球了，祝福你。||
+possession of this world with my blessings. ->克特鲁斯，你可以接管这个星球了，祝福你。||
 
-               Don't be snide, Kerrigan. This was part of the deal, remember? I've earned this... I am ->                别装蒜，凯瑞甘。这是交易的一部分，记得吗？||
+Don't be snide, Kerrigan. This was part of the deal, remember? I've earned this... I am -> 别装蒜，凯瑞甘。这是交易的一部分，记得吗？||
 
-Emperor of the Dominion again. I'll be sending General Duke to establish my base of operations in ->                这是我自己挣的…我重新是人族帝国的皇帝了。||
+Emperor of the Dominion again. I'll be sending General Duke to establish my base of operations in -> 这是我自己挣的…我重新是人族帝国的皇帝了。||
 
-Augustgrad. ->                我将派杜克将军前往奥古斯特格勒建立基地。
+Augustgrad. -> 我将派杜克将军前往奥古斯特格勒建立基地。
 
-               I hope you make the most of your reign...->               我希望你的统治一切顺利…
+I hope you make the most of your reign...->我希望你的统治一切顺利…
 

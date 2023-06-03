@@ -18,61 +18,61 @@ Listen here, Lieutenant, I've had just about enough of your-->听好，少尉。
 
 This conversation is over, Alexei. Given the true nature of our mission to enslave the Overmind, we could hardly stand to have Mengsk control a device of this magnitude. This Psi Disrupter must be destroyed in order to safeguard our mission. Ensign, set your course for Tarsonis.->谈话到此结束，阿列克斯。鉴于我们||最初的使命本就是征服主宰，我们决||不能让蒙斯克有任何机会获得这台如||此重要的仪器。幽能干扰器必须被摧||毁以确保我们的使命能够安全完成。||少尉，你可以向塔尔苏尼斯动身了。
 
-               Go ahead, HQ.->               总部，请讲。
+Go ahead, HQ.->总部，请讲。
 
-               Lieutenant Duran, since you have shown such ||->               杜兰少尉，既然你对此仪器的危险性如此关心，||
+Lieutenant Duran, since you have shown such ||->杜兰少尉，既然你对此仪器的危险性如此关心，||
 
-               concern for this device's inherent danger, I charge you ||->               我就令你负责找到并夺取干扰器。一旦我们控||
+concern for this device's inherent danger, I charge you ||->我就令你负责找到并夺取干扰器。一旦我们控||
 
-               with finding the Disrupter and securing it. We will commence ||->               制了这一带就可以着手拆毁工作了。
+with finding the Disrupter and securing it. We will commence ||->制了这一带就可以着手拆毁工作了。
 
-               with its destruction once we've cleared the area.->               
+with its destruction once we've cleared the area.->
 
-               Captain, our sensors are tracking Zerg signals in every ||->               指挥官，我们的感应器在所有方向都探测到虫||
+Captain, our sensors are tracking Zerg signals in every ||->指挥官，我们的感应器在所有方向都探测到虫||
 
-               direction. It appears that our intelligence was correct.->               族信号。看来我们的情报部门是正确的。
+direction. It appears that our intelligence was correct.->族信号。看来我们的情报部门是正确的。
 
-               Admiral, If we focus on destroying all of the hives in this ||->               上将，如果我们能集中火力摧毁这里所有蜂房||
+Admiral, If we focus on destroying all of the hives in this ||->上将，如果我们能集中火力摧毁这里所有蜂房||
 
-               area, we may be able to neutralize these Zerg without ||->               的话，也许我们可以不用花过多的力气消灭这||
+area, we may be able to neutralize these Zerg without ||->的话，也许我们可以不用花过多的力气消灭这||
 
-               too much trouble.->               些虫族。
+too much trouble.->些虫族。
 
               - Destroy Zerg hives to disable||->              - 摧毁虫族蜂房以令虫群失去控制。
 
-                Zerg broods.||->                
+ Zerg broods.||-> 
 
               - Bring Duran to the Psi Disrupter after||->              - 在蜂房被摧毁后将杜兰带至幽能干扰器。
 
-                Zerg hives are destroyed.||->                
+ Zerg hives are destroyed.||-> 
 
               - Duran must survive.->              - 杜兰必须存活。
 
 Zerg Hives Remaining->虫族蜂房仍然存活
 
-               - 4 Zerg Hives Remaining.->               - 尚有4虫族蜂房存活
+- 4 Zerg Hives Remaining.->- 尚有4虫族蜂房存活
 
-               - 3 Zerg Hives Remaining.->               - 尚有3虫族蜂房存活
+- 3 Zerg Hives Remaining.->- 尚有3虫族蜂房存活
 
-               - 2 Zerg Hives Remaining.->               - 尚有2虫族蜂房存活
+- 2 Zerg Hives Remaining.->- 尚有2虫族蜂房存活
 
-               - 1 Zerg Hive Remaining.->               - 尚有1虫族蜂房存活
+- 1 Zerg Hive Remaining.->- 尚有1虫族蜂房存活
 
-               Just as I thought. This brood can't operate without ||->               和我想的一样。这儿的虫族失去了主蜂房群集||
+Just as I thought. This brood can't operate without ||->和我想的一样。这儿的虫族失去了主蜂房群集||
 
-               it's primary hive cluster.->               就无法战斗了。
+it's primary hive cluster.->就无法战斗了。
 
-               Captain, we've located the Psi Disrupter. Shall we plant the ||->               指挥官，我们已经锁定了幽能干扰器。我们是||
+Captain, we've located the Psi Disrupter. Shall we plant the ||->指挥官，我们已经锁定了幽能干扰器。我们是||
 
-               explosives on it?->               否可以安装爆破装置了？
+explosives on it?->否可以安装爆破装置了？
 
-               Lieutenant Duran, we're here to relieve you. We've ||->               杜兰少尉，我们在此解除你的任务。我们奉斯||
+Lieutenant Duran, we're here to relieve you. We've ||->杜兰少尉，我们在此解除你的任务。我们奉斯||
 
-               come with orders from Admiral Stukov himself to facilitate ||->               图可夫将军他本人的命令前来协助拆除干扰器。
+come with orders from Admiral Stukov himself to facilitate ||->图可夫将军他本人的命令前来协助拆除干扰器。
 
-               the Disrupter's disassembly.->               
+the Disrupter's disassembly.->
 
-               Very well. Take it away. Captain, I'll be returning to the ||->               很好。拿去吧。指挥官，我会马上返回指挥舰||
+Very well. Take it away. Captain, I'll be returning to the ||->很好。拿去吧。指挥官，我会马上返回指挥舰||
 
-               command ship presently. ->               的。
+command ship presently. ->的。
 

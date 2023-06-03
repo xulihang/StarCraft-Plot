@@ -18,31 +18,31 @@ The time for action is upon us! The crystals must be taken to the Temple while t
 
 Executor, you shall provide escort for Artanis and Zeratul as they make their way to the Temple. Gods willing, we will channel the energies of the Xel'Naga, and scour this world clean of the Zerg! Go now, my children, and know that the survival of our entire race depends upon your actions!->执行官，你将为阿尔坦尼斯和泽拉托||前往神庙提供保护。倘若神站在我们||这一边，我们将引导赛尔那加神庙的||能量继而把这个星球上的虫族彻底清||除！去吧，我的孩子们，我们全种族||生存下去的希望就寄托在你们的行动||之上了。
 
-               When you bring the crystals to the Temple, the Zerg will surely ||->               当你们把水晶送达神庙的时候，毫无疑问虫族||
+When you bring the crystals to the Temple, the Zerg will surely ||->当你们把水晶送达神庙的时候，毫无疑问虫族||
 
-               send all of their legions to destroy you. You must be prepared to ||->               的所有军团都会倾巢而出来进攻你。你务必要||
+send all of their legions to destroy you. You must be prepared to ||->的所有军团都会倾巢而出来进攻你。你务必要||
 
-               protect the Temple itself from the Swarm!->               最好保护神庙的准备！
+protect the Temple itself from the Swarm!->最好保护神庙的准备！
 
-               The Uraj is secured!->               乌拉什水晶安全到位！
+The Uraj is secured!->乌拉什水晶安全到位！
 
-               The Khalis is secured!->               克哈里斯水晶安全到位！
+The Khalis is secured!->克哈里斯水晶安全到位！
 
-               Executor, Zeratul and I will begin to channel the||->               执行官，泽拉托和我将开始引导圣堂武士能量。
+Executor, Zeratul and I will begin to channel the||->执行官，泽拉托和我将开始引导圣堂武士能量。
 
-               Temple's energies. You must prevent the Zerg||->               在这期间你必须阻止虫族摧毁神庙！吾神与你||
+Temple's energies. You must prevent the Zerg||->在这期间你必须阻止虫族摧毁神庙！吾神与你||
 
-               from destroying the Temple while we work! Adun||->               同在，执行官！
+from destroying the Temple while we work! Adun||->同在，执行官！
 
-               be with you, Executor!->                
+be with you, Executor!-> 
 
-                Save the Temple from being destroyed.->                避免神庙被摧毁。
+ Save the Temple from being destroyed.-> 避免神庙被摧毁。
 
 (Temple activates)->（圣殿启动）
 
-               Executor, the channeling is complete! Withdraw our forces into the||->               执行官，引导完毕！把我们的部队撤回神庙内…||
+Executor, the channeling is complete! Withdraw our forces into the||->执行官，引导完毕！把我们的部队撤回神庙内…||
 
-               Temple... And brace yourself!->               做好最后的准备！
+Temple... And brace yourself!->做好最后的准备！
 
 ||TERRAN CAMPAIGN: THE IRON FIST||||Since the conflict began in the Koprulu sector, the ruling council of the United Earth Directorate has closely monitored its wayward Terran colonies. Having witnessed the steady advancement of the Zerg infestation and the maneuverings of the Protoss throughout the Colonies, the ruling council has finally agreed to take control over the war-torn sector. ||||Learning that a new Zerg Overmind has manifested itself upon the planet Char, the UED has sent its greatest Admiral, Gerard DuGalle, to capture the creature. As Captain of the UED fleet under DuGalle, your objective will be to storm the Terran Dominion and depose of its dictator, Emperor Mengsk I.||->||人族战役：铁拳||||自科布鲁鲁地区爆发武装对抗以来，地球联合理事会的统治议会便一直在||监视着这个他们难以控制的人族殖民地。在亲眼目睹了贯穿于整个殖民地||的虫族靠群袭稳定前进的步骤以及神族所使用的军事策略后，统治议会最||终决定去接管这个遍布战火的区域。||||得知一只新的虫族主宰在查尔行星上现身，地球联合理事会派出了它最杰||出的司令员，杰拉德·杜加尔去捕获该生物。||||作为杜加尔属下 UED舰队的指挥官，你的目标是袭取人族帝国并罢免独裁||者，皇帝蒙斯克。
 

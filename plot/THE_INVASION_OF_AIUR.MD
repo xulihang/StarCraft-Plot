@@ -8,21 +8,21 @@ Yet before I can be made manifest upon this world, the way must be prepared. You
 
 Go now, my Cerebrate. Secure the crystals, and bring swift wrath to all who oppose the Swarm!->去吧，我的孩子。去带回水晶，如||果有谁敢阻挡的话，干掉他！
 
-               The Crystal is being harvested.->               现在开始采集水晶了……
+The Crystal is being harvested.->现在开始采集水晶了……
 
-               -10 Minutes until harvesting is complete.->               - 采集需要 10 分钟.
+-10 Minutes until harvesting is complete.->- 采集需要 10 分钟.
 
-               - Hold off the protoss forces while the drone ||->               - 在雄蜂开采柯亥达林水晶期间抵抗神族进攻。||
+- Hold off the protoss forces while the drone ||->- 在雄蜂开采柯亥达林水晶期间抵抗神族进攻。||
 
-                 harvests the Khaydarin Crystals.->                 
+  harvests the Khaydarin Crystals.->  
 
 Harvesting Complete.->采集完成.
 
 - Bring Khaydarin Crystal to the Beacon.->- 将柯亥达林水晶送至路标.
 
-               Cerebrate, the Khaydarin Crystals are now||->               脑虫，现在柯亥达林水晶是我们的了！||
+Cerebrate, the Khaydarin Crystals are now||->脑虫，现在柯亥达林水晶是我们的了！||
 
-               in our possession.  Now, all shall tremble||->               所有的生物都应该在我们面前感到恐惧了！||
+in our possession.  Now, all shall tremble||->所有的生物都应该在我们面前感到恐惧了！||
 
-               before the might of the swarms.->               
+before the might of the swarms.->
 

@@ -14,41 +14,41 @@ They will be capable of dimensional recall within thirty minutes, my Queen.->他
 
 That may be all the time we need. Cerebrate, mobilize all of my broods and send them to the surface of Char. I want you to bring both the Matriarch and  Zeratul to me alive. Terminate the remaining Protoss with extreme prejudice.->那也许我们就需要这么多的时间。脑||虫，调动我所有的虫群前往查尔表面||。我要你把女酋长和泽拉托都活着带||来。狠狠地干掉剩下的神族。
 
-               Damn you, Kerrigan, for what I must do! ->               该死的，凯瑞甘，我不得不这么做！
+Damn you, Kerrigan, for what I must do! ->该死的，凯瑞甘，我不得不这么做！
 
-               Thank you, Zeratul... You have freed me from||->               谢谢你，泽拉托…最终你还是把我从她邪恶的||
+Thank you, Zeratul... You have freed me from||->谢谢你，泽拉托…最终你还是把我从她邪恶的||
 
-               her vile control at last. You have always served||->               控制中拯救了出来。你一直都在出色的协助我||
+her vile control at last. You have always served||->控制中拯救了出来。你一直都在出色的协助我||
 
-               me with honor... Thus I must ask you... to watch||->               …因此我必须要求你…照看我的部落…我把未||
+me with honor... Thus I must ask you... to watch||->…因此我必须要求你…照看我的部落…我把未||
 
-               over my tribe... Into your hands I give the future.->               来就交在你手中了。
+over my tribe... Into your hands I give the future.->来就交在你手中了。
 
-               I can hardly believe this! You've killed your own Matriarch!->               我简直不敢相信！你居然杀死了你们自己的女酋长！
+I can hardly believe this! You've killed your own Matriarch!->我简直不敢相信！你居然杀死了你们自己的女酋长！
 
-               Better that I killed her, than let her live as your slave, Kerrigan.->               我杀了她，好过让她活着做你的奴隶，凯瑞甘。
+Better that I killed her, than let her live as your slave, Kerrigan.->我杀了她，好过让她活着做你的奴隶，凯瑞甘。
 
-               Well, I have misjudged you, warrior. You are worthy, ||->               嗯，我看错你了，勇士。你实在是令人尊敬。||
+Well, I have misjudged you, warrior. You are worthy, ||->嗯，我看错你了，勇士。你实在是令人尊敬。||
 
-               indeed. You are free to go.->               你可以走了。
+indeed. You are free to go.->你可以走了。
 
-               What?->               什么？
+What?->什么？
 
-               I said, you are free to go. I've already taken||->               我说，你可以走了。我已经夺走了你的荣誉。||
+I said, you are free to go. I've already taken||->我说，你可以走了。我已经夺走了你的荣誉。||
 
-               your honor. I'll let you live, because I know that||->               我让你活下去，因为我知道从今往后，你每一||
+your honor. I'll let you live, because I know that||->我让你活下去，因为我知道从今往后，你每一||
 
-               from now on, your every waking moment will be||->               个清醒的时刻都会被痛苦折磨。你永远都无法||
+from now on, your every waking moment will be||->个清醒的时刻都会被痛苦折磨。你永远都无法||
 
-               torture. You'll never be able to forgive yourself for||->               原谅那些你被我所迫而做的事情。那，泽拉托，||
+torture. You'll never be able to forgive yourself for||->原谅那些你被我所迫而做的事情。那，泽拉托，||
 
-               what I've forced you to do. And that, Zeratul, is a||->               就是我所能想到的最好的复仇。
+what I've forced you to do. And that, Zeratul, is a||->就是我所能想到的最好的复仇。
 
-               better revenge than I could have ever dreamed of.->               
+better revenge than I could have ever dreamed of.->
 
-               You will regret this decision, Kerrigan. We shall ||->               你会为这个决定后悔的，凯瑞甘。我们后会有||
+You will regret this decision, Kerrigan. We shall ||->你会为这个决定后悔的，凯瑞甘。我们后会有||
 
-               meet again.->               期。
+meet again.->期。
 
 BONUS LEVEL ACTIVATED!->附加关卡激活!
 

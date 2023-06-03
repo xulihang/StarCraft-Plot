@@ -16,49 +16,49 @@ Then it is clear that we must retrieve these crystals wherever they may be.->那
 
 Agreed. But first, we must deal with the Zerg and their two Cerebrates who have already taken up station around the Temple itself. To arms, my children! Scour the Temple grounds of this foul infestation!->同意。但首先我们得先解决掉这里两||只占据了神庙的脑虫。我的孩子们，||准备好你们手中的武器！把这些渣滓||从神庙里清除出去！
 
-               Remember, young Templar, cerebrates can be killed only by Dark||->               请记住，年轻的圣堂武士，脑虫只能被黑暗圣||
+Remember, young Templar, cerebrates can be killed only by Dark||->请记住，年轻的圣堂武士，脑虫只能被黑暗圣||
 
-               Templar weapons and energies.  My brethren will make short work||->               堂武士的能量和武器消灭。我的弟兄们是不会||
+Templar weapons and energies.  My brethren will make short work||->堂武士的能量和武器消灭。我的弟兄们是不会||
 
-               of any cerebrate!->               在脑虫身上浪费任何功夫的！
+of any cerebrate!->在脑虫身上浪费任何功夫的！
 
-               Executor, our sensors show that the two Cerebrates are surrounded||->               执行官，感应器显示两只脑虫周围有许多防空||
+Executor, our sensors show that the two Cerebrates are surrounded||->执行官，感应器显示两只脑虫周围有许多防空||
 
-               by spore colonies.  We will deploy our Corsairs to compensate for ||->               塔守护。我们会派遣海盗船来削弱它们的防守。
+by spore colonies.  We will deploy our Corsairs to compensate for ||->塔守护。我们会派遣海盗船来削弱它们的防守。
 
-               their defenses.->               
+their defenses.->
 
-               Well done, mighty Protoss! I'm glad to see that you all are as ||->               干的不赖啊，老神族！看到你们的火气还是这||
+Well done, mighty Protoss! I'm glad to see that you all are as ||->干的不赖啊，老神族！看到你们的火气还是这||
 
-               violent as ever.->               么大我可真高兴。
+violent as ever.->么大我可真高兴。
 
               Kerrigan! What mockery is this?->              凯瑞甘！你怎敢如此出言不逊？
 
-               Relax, warriors. Despite what you may think, I haven't come here||->               放松些，勇士们。不管你们是怎么想的，我反||
+Relax, warriors. Despite what you may think, I haven't come here||->放松些，勇士们。不管你们是怎么想的，我反||
 
-               to fight you.->               正不是来和你们打架的。
+to fight you.->正不是来和你们打架的。
 
-               This is laughable! Do you truly expect us to believe that your ||->               可笑！你真的以为我们会相信你来这里的动机||
+This is laughable! Do you truly expect us to believe that your ||->可笑！你真的以为我们会相信你来这里的动机||
 
-               intentions here are honorable? That these Zerg here are not ||->               是高尚的？难道这些虫族不是被你所左右的么？
+intentions here are honorable? That these Zerg here are not ||->是高尚的？难道这些虫族不是被你所左右的么？
 
-               under your sway?->               
+under your sway?->
 
-               Look, the Cerebrates you've killed were my enemies as well. If you||->               听着，你们刚刚杀死的脑虫也是我的敌人。如||
+Look, the Cerebrates you've killed were my enemies as well. If you||->听着，你们刚刚杀死的脑虫也是我的敌人。如||
 
-               let me explain, I'm sure you'll understand tha-->               果容我解释的话，我相信你们能明白—
+let me explain, I'm sure you'll understand tha-->果容我解释的话，我相信你们能明白—
 
-               You are the enemy of all who live, Kerrigan.  What makes you think||->               你才是这世界上所有生命共同的敌人，凯瑞甘。||
+You are the enemy of all who live, Kerrigan.  What makes you think||->你才是这世界上所有生命共同的敌人，凯瑞甘。||
 
-               we would have anything to do with you?->               你凭什么认为我们会和你打交道？
+we would have anything to do with you?->你凭什么认为我们会和你打交道？
 
-               Because, Zeratul, I bring news of an event that threatens us all. If||->               那是因为，泽拉托，我带来的是一件威胁到我||
+Because, Zeratul, I bring news of an event that threatens us all. If||->那是因为，泽拉托，我带来的是一件威胁到我||
 
-               you'd be so good as to escort me back to your Citadel, I'll tell you||->               们所有人的消息。如果你能好心把我带回你们||
+you'd be so good as to escort me back to your Citadel, I'll tell you||->们所有人的消息。如果你能好心把我带回你们||
 
-               everything I know.->               的大本营，我会把一切我所知道的告诉你。
+everything I know.->的大本营，我会把一切我所知道的告诉你。
 
-               Very well, Kerrigan. We shall hear what you have to say. But be||->               好吧，凯瑞甘。我们来听听你有什么可说的。||
+Very well, Kerrigan. We shall hear what you have to say. But be||->好吧，凯瑞甘。我们来听听你有什么可说的。||
 
-               warned: We will not suffer your treachery here.->               但警告你，这里不是你能随便背信弃义的地方。
+warned: We will not suffer your treachery here.->但警告你，这里不是你能随便背信弃义的地方。
 

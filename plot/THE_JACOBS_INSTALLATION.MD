@@ -16,11 +16,11 @@ I'm into it.->没问题。
 
           This door is locked.->          这个门是锁住的。
 
-                You rebel scum!->                你们这些叛军渣滓！
+ You rebel scum!-> 你们这些叛军渣滓！
 
          Cell Doors Open.->         牢房门打开了。
 
-               Zerg! I don't believe this!->               虫族！我真不敢相信！
+Zerg! I don't believe this!->虫族！我真不敢相信！
 
               Believe it. I saw Zerg within Confederate||->              相信吧。我一年前就在联盟||
 
@@ -42,9 +42,9 @@ I'm into it.->没问题。
 
           YOU HAVE TELEPORTED TO SECTOR *.->          你传送到了第*区。
 
-               Unauthorized entry detected.->               警报！发现未经同意的的侵入者！
+Unauthorized entry detected.->警报！发现未经同意的的侵入者！
 
-               It's them! Blast them!->               他们来了！轰掉他们！
+It's them! Blast them!->他们来了！轰掉他们！
 
           ACCESSING CONFEDERATE NETWORK>...||->          正在进入联盟网络〉…||
 
@@ -54,13 +54,13 @@ I'm into it.->没问题。
 
           FILE TRANSFER COMPLETE>...->          文件传输完毕〉…
 
-               Hey, we've found the plans, man. Have ||->               喂！我们已经找到计划书了，||
+Hey, we've found the plans, man. Have ||->喂！我们已经找到计划书了，||
 
-               the transports waiting when we come out.->               运输机正在等待我们离开。
+the transports waiting when we come out.->运输机正在等待我们离开。
 
-                Hey! You're not allowed in here!->                嘿！你们怎么进来的！
+ Hey! You're not allowed in here!-> 嘿！你们怎么进来的！
 
-               Security Cameras Activated.->               保安摄像机开启.
+Security Cameras Activated.->保安摄像机开启.
 
 ||In the wake of the chaos resulting from the Zerg invasion, The Sons of Korhal escaped with the stolen data discs.||||Fleeing to the border colony of Antiga Prime, Arcturus?group now plans its next crucial moves against the Confederacy.||||Thirteen hours after the evacuation of Mar Sara, Protoss warships took up orbit around the colony and unleashed a massive planetary bombardment.||||All life upon the surface was extinguished.||->在虫族入侵引起的混乱中，激进主义组织“柯哈尔之子”带着数据磁盘逃||脱了。阿克图拉斯的队伍来到了边缘的殖民地安提哥，计划着对联盟的下||一次致命打击。||||玛尔萨拉殖民地人员撤离十三个小时后，神族战舰出现在行星的轨道上，||并进行了猛烈的轰炸，行星表面的所有生命形态都被毁灭了。||
 

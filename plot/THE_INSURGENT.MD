@@ -16,69 +16,69 @@ There is something amiss here. The Matriarch has always been a wise and gentle s
 
 That may well be... But right now we have a friend to kill. May Adun forgive us.->也许是吧…可现在我们要去杀死一个||朋友了。愿吾神饶恕我们。
 
-               Be advised, Executor, our forces are divided.  Aldaris has taken||->               请注意，执行官，我们的力量被分散了。阿尔||
+Be advised, Executor, our forces are divided.  Aldaris has taken||->请注意，执行官，我们的力量被分散了。阿尔||
 
-               control of our templar warriors and Arbiters. It is possible that he||->               达瑞斯控制了我们的圣堂武士和仲裁者。他甚||
+control of our templar warriors and Arbiters. It is possible that he||->达瑞斯控制了我们的圣堂武士和仲裁者。他甚||
 
-               may even send Archons against us.->               至会派执政官来对付我们。
+may even send Archons against us.->至会派执政官来对付我们。
 
-               Fear not, comrades, for we have Archons of our own! Should the||->               不用怕，战友们，因为我们有我们自己的执||
+Fear not, comrades, for we have Archons of our own! Should the||->不用怕，战友们，因为我们有我们自己的执||
 
-               dire need arise, all Dark Templar may merge to become Dark ||->               政官！一旦形势危急，所有的暗黑圣堂都可以||
+dire need arise, all Dark Templar may merge to become Dark ||->政官！一旦形势危急，所有的暗黑圣堂都可以||
 
-               Archons. Though we sacrifice our warriors in doing so, only the ||->               合并为暗黑执政官。虽然这样牺牲了我们||
+Archons. Though we sacrifice our warriors in doing so, only the ||->合并为暗黑执政官。虽然这样牺牲了我们||
 
-               might of the Dark Archons can match the forces of Aldaris.->               的勇士，但也只有这样才能对抗阿尔达瑞斯。
+might of the Dark Archons can match the forces of Aldaris.->的勇士，但也只有这样才能对抗阿尔达瑞斯。
 
-               You didn't think I'd be caught so easily did you, Executor?  You||->               你不会是以为我会这么轻易被你们抓住吧，执||
+You didn't think I'd be caught so easily did you, Executor?  You||->你不会是以为我会这么轻易被你们抓住吧，执||
 
-               have only destroyed a phantom.->               行官？你干掉的不过是一个魅影而已。
+have only destroyed a phantom.->行官？你干掉的不过是一个魅影而已。
 
-               Yet again, Executor, you destroy only a simulacrum of myself! You||->               再一次的，执政官，你消灭的只是我的影像！||
+Yet again, Executor, you destroy only a simulacrum of myself! You||->再一次的，执政官，你消灭的只是我的影像！||
 
-               believe me to be a traitor, but it is you and the Matriarch who will||->               你以为我是个叛徒，但正是你和那个女酋长才||
+believe me to be a traitor, but it is you and the Matriarch who will||->你以为我是个叛徒，但正是你和那个女酋长才||
 
-               usher our race to oblivion!->               会令我们整个种族在未来永无声迹！
+usher our race to oblivion!->会令我们整个种族在未来永无声迹！
 
-               It is finished, Judicator. Surrender your remaining forces, and join us||->               一切都结束了，执法官。交出你的残余部队，||
+It is finished, Judicator. Surrender your remaining forces, and join us||->一切都结束了，执法官。交出你的残余部队，||
 
-               in eradicating the Zerg.->               和我们一起去消灭虫族吧。
+in eradicating the Zerg.->和我们一起去消灭虫族吧。
 
-               I would sooner die, dark one, than tarnish the memory of Aiur by ||->               我宁愿先死，黑暗的家伙，也不会加入你为艾||
+I would sooner die, dark one, than tarnish the memory of Aiur by ||->我宁愿先死，黑暗的家伙，也不会加入你为艾||
 
-               joining with you. Your fate was sealed the moment your Matriarch||->               尔抹黑。你们的命运自你们的女酋长和刀锋女||
+joining with you. Your fate was sealed the moment your Matriarch||->尔抹黑。你们的命运自你们的女酋长和刀锋女||
 
-               allied herself with the Queen of Blades! Those of us still loyal to ||->               皇联盟之日起就被定下了。我们这些仍忠于艾||
+allied herself with the Queen of Blades! Those of us still loyal to ||->皇联盟之日起就被定下了。我们这些仍忠于艾||
 
-               Aiur will never be slaves to Kerrigan and her Broods.->               尔的神族永远不会成为凯瑞甘及其虫群的奴隶！
+Aiur will never be slaves to Kerrigan and her Broods.->尔的神族永远不会成为凯瑞甘及其虫群的奴隶！
 
-               Aldaris, be reasonable! Kerrigan has changed. She no longer ||->               阿尔达瑞斯，理智些！凯瑞甘已经变了。她不||
+Aldaris, be reasonable! Kerrigan has changed. She no longer ||->阿尔达瑞斯，理智些！凯瑞甘已经变了。她不||
 
-               seeks to enslave anyone. Do not force us to destroy you.->               再想去奴役任何人。不要逼着我们消灭你。
+seeks to enslave anyone. Do not force us to destroy you.->再想去奴役任何人。不要逼着我们消灭你。
 
-               You can no longer afford to be so naive, Artanis. While you were||->               你不能再继续为天真付出代价了，阿尔坦尼斯。||
+You can no longer afford to be so naive, Artanis. While you were||->你不能再继续为天真付出代价了，阿尔坦尼斯。||
 
-               securing the crystals, I discovered that your Matriarch has been ||->               当你们在争夺水晶的时候，我发现你们的女酋||
+securing the crystals, I discovered that your Matriarch has been ||->当你们在争夺水晶的时候，我发现你们的女酋||
 
-               harboring a dark secret! She has been manipulated by de-->               长一直在掩饰着一个秘密。她已经受控于…
+harboring a dark secret! She has been manipulated by de-->长一直在掩饰着一个秘密。她已经受控于…
 
-               We have no time for this!->               我们没时间听你胡说！
+We have no time for this!->我们没时间听你胡说！
 
-               Kerrigan... What have you done?->               凯瑞甘…你都干了什么？
+Kerrigan... What have you done?->凯瑞甘…你都干了什么？
 
-               I just cleaned up your mess, Protoss. Don't be so squeamish.->               我不过帮你收拾残局罢了，不要这么神经质。
+I just cleaned up your mess, Protoss. Don't be so squeamish.->我不过帮你收拾残局罢了，不要这么神经质。
 
-               Wretched creature! This was a Protoss matter; you had no right||->               卑鄙的家伙！这是神族的内部事务，你无权干||
+Wretched creature! This was a Protoss matter; you had no right||->卑鄙的家伙！这是神族的内部事务，你无权干||
 
-               to interfere! Begone from this world! You are no longer welcome||->               涉！离开这个星球！你不再受我们的欢迎！
+to interfere! Begone from this world! You are no longer welcome||->涉！离开这个星球！你不再受我们的欢迎！
 
-               among us!->               
+among us!->
 
-               Fine. I've done what I came here to do. I've insured the||->               随便。我已经达到了我来这里的目的。我确保||
+Fine. I've done what I came here to do. I've insured the||->随便。我已经达到了我来这里的目的。我确保||
 
-               destruction of the renegade Cerebrates, and I used you to do it.||->               了变节的脑虫们的毁灭，何况还是利用你们做||
+destruction of the renegade Cerebrates, and I used you to do it.||->了变节的脑虫们的毁灭，何况还是利用你们做||
 
-               Have fun, mighty Protoss... We'll be seeing each other again, ||->               到的这一点。玩得开心，强大的老神族…我们||
+Have fun, mighty Protoss... We'll be seeing each other again, ||->到的这一点。玩得开心，强大的老神族…我们||
 
-               real soon...->               彼此还会再见面的，很快…
+real soon...->彼此还会再见面的，很快…
 

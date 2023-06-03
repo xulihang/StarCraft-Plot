@@ -24,19 +24,19 @@ The hell with him. We're gone.->让他见鬼去吧！我们走！
 
 It appears that General Duke has successfully activated Tarsonis' primary defensive weapon, the Ion Cannon. The Cannon must be shut down if any escape attempt is to be made.->杜克将军已经开启了塔尔苏尼斯的||终极防御武器——离子大炮。如果||我们逃走的话，先要把离子大炮摧||毁。
 
-               Well, Commander, it looks like we're on our||->               指挥官，看来我们现在只有靠我们自己了。||
+Well, Commander, it looks like we're on our||->指挥官，看来我们现在只有靠我们自己了。||
 
-               own. It's funny... It seems like yesterday||->               真是可笑…就好像过去的阿克图拉斯还曾经||
+own. It's funny... It seems like yesterday||->真是可笑…就好像过去的阿克图拉斯还曾经||
 
-               Arcturus was the idealistic rebel crusader. ||->               是有理想的反叛军领袖…||
+Arcturus was the idealistic rebel crusader. ||->是有理想的反叛军领袖…||
 
-               Now he's the law, and we're the criminals. It||->               现在他变成法律了，而我们却成了罪犯。||
+Now he's the law, and we're the criminals. It||->现在他变成法律了，而我们却成了罪犯。||
 
-               kills me to know that we helped him||->               我们曾经帮助他完成征服大业，现在想起来||
+kills me to know that we helped him||->我们曾经帮助他完成征服大业，现在想起来||
 
-               achieve his goals of conquest.->               真是痛心…
+achieve his goals of conquest.->真是痛心…
 
-               Damnit! I shouldn't have let her go alone.->               该死的，我真不该让凯瑞甘一个人去的…
+Damnit! I shouldn't have let her go alone.->该死的，我真不该让凯瑞甘一个人去的…
 
 ||ZERG CAMPAIGN: OVERMIND||||The Swarms have crushed the meager human resistance and laid waste to nine of the thirteen Terran worlds. Shortly after the fall of the Terran capitol world of Tarsonis, the main Protoss fleet abandoned the Terran Sector. Now, efforts continue on Tarsonis to weed out the remaining Protoss forces.||->||虫族战役：主宰||||虫族种群已粉碎了人类的微弱反抗，并摧毁了人族十三个行星中的九个。||人族首都行星塔尔苏尼斯陷落后不久，神族主舰队就放弃了人族战区。||||现在虫族所要做的就是彻底铲除塔尔苏尼斯行星上的神族残余势力。||
 

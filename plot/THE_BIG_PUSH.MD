@@ -14,31 +14,31 @@ Well, the Confederates have Omega and Delta Squadron troops defending the platfo
 
 Right.->哦…
 
-               I can't believe this! Alpha Squadron never ||->               我简直不敢相信！||
+I can't believe this! Alpha Squadron never ||->我简直不敢相信！||
 
-               would've left this equipment behind! That's ||->               我们阿尔法中队绝对不会留下任何资源，||
+would've left this equipment behind! That's ||->我们阿尔法中队绝对不会留下任何资源，||
 
-               what I call sloppy!->               我觉得这简直是浪费糟蹋！
+what I call sloppy!->我觉得这简直是浪费糟蹋！
 
-               This is Duke. The emitters are secured and ||->               杜克报告。||
+This is Duke. The emitters are secured and ||->杜克报告。||
 
-               on-line.->               幽能发生器安置完毕，已经正常运作了。
+on-line.->幽能发生器安置完毕，已经正常运作了。
 
-               Who authorized the use of Psi-Emitters?->               谁批准你使用幽能发生器的？
+Who authorized the use of Psi-Emitters?->谁批准你使用幽能发生器的？
 
-               I did, lieutenant.->               是我批准的。
+I did, lieutenant.->是我批准的。
 
-               What? The Confederates on Antiga were||->               （不敢相信）||
+What? The Confederates on Antiga were||->（不敢相信）||
 
-               bad enough, but now you're going to use||->               我们已经毁了联盟的安提哥殖民地，||
+bad enough, but now you're going to use||->我们已经毁了联盟的安提哥殖民地，||
 
-               the Zerg against an entire planet? This is||->               现在你又要引虫族上门，毁灭这个行星？！||
+the Zerg against an entire planet? This is||->现在你又要引虫族上门，毁灭这个行星？！||
 
-               insane.->               你真的疯了。
+insane.->你真的疯了。
 
-               She's right, man.Think this through.->               她是对的。你最好还是再考虑一下吧？
+She's right, man.Think this through.->她是对的。你最好还是再考虑一下吧？
 
-               I have thought it through. Believe me.||->               我已经考虑过了。相信我。||
+I have thought it through. Believe me.||->我已经考虑过了。相信我。||
 
-               You all have your orders. Carry them out.->               你们都已经收到命令了，赶快去完成它吧。
+You all have your orders. Carry them out.->你们都已经收到命令了，赶快去完成它吧。
 

@@ -14,35 +14,35 @@ Let her go, Zasz. The greatness of her spirit has been left to her; that the Swa
 
 By your will, Overmind. Cerebrate, you must see that she comes to no harm.->遵从您的命令。脑虫，你要保护她||不受到伤害。
 
-               Cerebrate, take these, the deadliest of my||->               脑虫，带着这些部队，我最致命的手下。||
+Cerebrate, take these, the deadliest of my||->脑虫，带着这些部队，我最致命的手下。||
 
-               minions. They shall aid you in your search.->               它们将会在你的探索过程中帮助你。
+minions. They shall aid you in your search.->它们将会在你的探索过程中帮助你。
 
-               Unauthorized entry detected.->               警报！发现入侵者！
+Unauthorized entry detected.->警报！发现入侵者！
 
-               We got company!->               嘿，它们来了！小心！
+We got company!->嘿，它们来了！小心！
 
-               Security Cameras Activated.->               保安摄像机开启.
+Security Cameras Activated.->保安摄像机开启.
 
           SUPERCOMPUTER LOCATED IN SECTOR 6!->          超级计算机在６区！
 
-               Call for Help!->               呼叫增援！
+Call for Help!->呼叫增援！
 
-               She's infested, stay away from her.->               她是变异人！救命啊～
+She's infested, stay away from her.->她是变异人！救命啊～
 
-               See, they ain't so tough. These critters||->               看，它们没有想像中的无敌。||
+See, they ain't so tough. These critters||->看，它们没有想像中的无敌。||
 
-               bleed just like anybody else.->               这些生物一样会流血，就跟我们一样！
+bleed just like anybody else.->这些生物一样会流血，就跟我们一样！
 
           PRISON DOORS LOCKED. -> 牢房门锁上了。
 
 PRISON DOORS OPENED.->牢房门打开了。
 
-               All right, let's wax these critters.->               轰烂这些恶心的东西！
+All right, let's wax these critters.->轰烂这些恶心的东西！
 
 DOOR IS LOCKED!->门是锁上的！
 
-               You'll never make it out of here alive, bitch!->               你不会得逞的！婊子！
+You'll never make it out of here alive, bitch!->你不会得逞的！婊子！
 
 YOU HAVE UNLOCKED ALL DOORS!->所有的密门都解锁了。
 
@@ -58,7 +58,7 @@ YOU HAVE UNLOCKED ALL DOORS!->所有的密门都解锁了。
 
           File Transfer Complete>...->          文件传输完毕〉…
 
-               Cerebrate, I've located the records I sought. ||->               脑虫，我已经得到我想要的资料了。||
+Cerebrate, I've located the records I sought. ||->脑虫，我已经得到我想要的资料了。||
 
-               We have everything we need here.->               我们可以离开这里了。
+We have everything we need here.->我们可以离开这里了。
 

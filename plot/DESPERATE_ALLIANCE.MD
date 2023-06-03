@@ -12,23 +12,23 @@ You know, of course, that my organization operates outside the bounds of Confede
 
 Ending transmission. Priority Alert! Evacuation Zone under attack by Zerg forces. Distress beacon activated at 1220. ->讯息传送完毕。||一级警戒！遭到虫族进攻！马上撤||离区域！立刻在１２２０区发出警||戒信号！
 
-               Hey, this thing's on fire! You oughta' send ||->               喂！这里着火了，赶快派ＳＣＶ过来修理，||
+Hey, this thing's on fire! You oughta' send ||->喂！这里着火了，赶快派ＳＣＶ过来修理，||
 
-               an SCV out here and repair it,||->               还有顺便把我的车也修一下。||
+an SCV out here and repair it,||->还有顺便把我的车也修一下。||
 
-               and fix my bike up too while he's at it.->               
+and fix my bike up too while he's at it.->
 
-               We can take cover in these bunkers ||->               我们可以进入地堡里面，||
+We can take cover in these bunkers ||->我们可以进入地堡里面，||
 
-               if things get too dicey.||->               危险时可以由它来得到掩护。||
+if things get too dicey.||->危险时可以由它来得到掩护。||
 
-               Ten minutes until dropship arrival.->               运输舰队将在10分钟后到达。
+Ten minutes until dropship arrival.->运输舰队将在10分钟后到达。
 
-               Five minutes until dropship arrival.->               运输舰队将在5分钟后到达。
+Five minutes until dropship arrival.->运输舰队将在5分钟后到达。
 
-               One minute until dropship arrival.->               运输舰队将在1分钟后到达。
+One minute until dropship arrival.->运输舰队将在1分钟后到达。
 
-                Sons of Korhal dropships approaching.->                柯哈尔之子的运输舰队抵达了。
+ Sons of Korhal dropships approaching.-> 柯哈尔之子的运输舰队抵达了。
 
-               Strap yourselves in, boys.->               嗨，上船吧！
+Strap yourselves in, boys.->嗨，上船吧！
 

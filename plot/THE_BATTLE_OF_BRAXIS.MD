@@ -14,11 +14,11 @@ Yes, Artanis. We did vanquish the Overmind. But we did so with the help of human
 
 Of course. Executor, I shall test the mettle of these humans by scouting ahead of your ships, and finding a way through this blockade! ||||En Taro Tassadar!->当然。执行官，我将会在你的舰只前||面进行侦察以刺探那些人类的虚实，||并找出一条可以穿过他们封锁的道路||！塔萨达万岁！
 
-               Executor, with the power generator destroyed, the missile||->               执行官，发电机已经被摧毁，这个平台上的防||
+Executor, with the power generator destroyed, the missile||->执行官，发电机已经被摧毁，这个平台上的防||
 
-               turrets on this platform are no longer operational. However, we||->               空塔也随之失效了。尽管如此，我们仍需要一||
+turrets on this platform are no longer operational. However, we||->空塔也随之失效了。尽管如此，我们仍需要一||
 
-               will need reinforcements to finish the job.->               些支援部队以顺利完成任务。
+will need reinforcements to finish the job.->些支援部队以顺利完成任务。
 
-               Reinforements are on route now, young templar.->               年轻的圣堂武士，援兵已经上路。
+Reinforements are on route now, young templar.->年轻的圣堂武士，援兵已经上路。
 

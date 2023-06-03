@@ -16,21 +16,21 @@ The Protoss outpost of Talematros is built upon a large mesa and is essentially 
 
 Clean, simple, devious. I like it. Make it happen Duran. Cerebrate, you'll provide cover for Duran as he infiltrates the pylon clusters. Let nothing stand in our way!->清楚，简单，有效。我喜欢这个计划||。杜兰，你去实行吧。脑虫，你要在||杜兰摧毁水晶柱阵列期间提供保护。||不要让任何东西阻挡我们！
 
-               Pylon cluster set to overload.->               水晶塔已设至超载。
+Pylon cluster set to overload.->水晶塔已设至超载。
 
-               Charges set.->               炸弹设定。
+Charges set.->炸弹设定。
 
-               This cluster is ready to overload.->               水晶塔群已做好超载准备。
+This cluster is ready to overload.->水晶塔群已做好超载准备。
 
-               My Queen, the last charge is set. Talematros will explode ||->               我的女皇，最后一个炸弹已设好。塔勒马托斯||
+My Queen, the last charge is set. Talematros will explode ||->我的女皇，最后一个炸弹已设好。塔勒马托斯||
 
-               on your command.->               将随您的命令开始爆炸。
+on your command.->将随您的命令开始爆炸。
 
-               Very well. Cerebrate, send my minions down to the planet ||->               非常好。脑虫，将我的亲信部队派入行星夺取||
+Very well. Cerebrate, send my minions down to the planet ||->非常好。脑虫，将我的亲信部队派入行星夺取||
 
-               and have them retrieve the Matriarch. Duran, ignite the ||->               女酋长。杜兰，起爆炸弹。
+and have them retrieve the Matriarch. Duran, ignite the ||->女酋长。杜兰，起爆炸弹。
 
-               charges!->               
+charges!->
 
-               Ignition commencing.->               起爆程序启动。
+Ignition commencing.->起爆程序启动。
 

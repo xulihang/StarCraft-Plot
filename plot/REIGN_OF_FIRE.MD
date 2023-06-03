@@ -34,49 +34,49 @@ The only thing I can assure you of, Arcturus, is that without my help, you'll be
 
 I see that you're still a persuasive speaker. All right, Kerrigan. I'll lend you some Emitters, but this had better be worth it.->看来你还是个像以前一样很有说服力||的演说家。好吧，凯瑞甘。我会借给||你些发射器，但你最好能对得起我。||
 
-               All right boys and girls, listen up! Our objective is||->               大家听好了！我们的目标是找到并摧毁幽能干||
+All right boys and girls, listen up! Our objective is||->大家听好了！我们的目标是找到并摧毁幽能干||
 
-               to locate and disable the Psi Disrupter's primary||->               扰器的主能源站。一旦我们的目标达到，我们||
+to locate and disable the Psi Disrupter's primary||->扰器的主能源站。一旦我们的目标达到，我们||
 
-               power generator. Once we've done that, we'll ||->               会把任务转给蒙斯克和凯瑞甘。出发！
+power generator. Once we've done that, we'll ||->会把任务转给蒙斯克和凯瑞甘。出发！
 
-               turn the mission over to Mengsk and Kerrigan.||->               
+turn the mission over to Mengsk and Kerrigan.||->
 
-               Let's move out!->               
+Let's move out!->
 
-               I'm gone...->               我去了…
+I'm gone...->我去了…
 
-               Go! Go! Go!->               上啊！
+Go! Go! Go!->上啊！
 
-               Kerrigan, the generator's off-line. You can send down the Psi ||->               凯瑞甘，发电机已停止工作。你可以随时将幽||
+Kerrigan, the generator's off-line. You can send down the Psi ||->凯瑞甘，发电机已停止工作。你可以随时将幽||
 
-               Emitter at any time.->               能发射器派下来了。
+Emitter at any time.->能发射器派下来了。
 
-               Good work, Jim.->               干得好，吉姆。
+Good work, Jim.->干得好，吉姆。
 
-               The Psi Emitter will be carried by one of my SCV's. With the ||->               幽能发射器将会由我的一个 SCV负责运送。随||
+The Psi Emitter will be carried by one of my SCV's. With the ||->幽能发射器将会由我的一个 SCV负责运送。随||
 
-               Disrupter's power cut, the Emitter should be able to get the ||->               着干扰器的能源被切断，发射器应该能引起附||
+Disrupter's power cut, the Emitter should be able to get the ||->着干扰器的能源被切断，发射器应该能引起附||
 
-               attention of any renegade Zerg near it. The SCV will then be||->               近虫族的注意力。之后 SCV就可以把虫族吸引||
+attention of any renegade Zerg near it. The SCV will then be||->近虫族的注意力。之后 SCV就可以把虫族吸引||
 
-               able to lure the Zerg back to your base. Once the Zerg arrive||->               到你的基地。一旦虫族进入那里，你将获得对||
+able to lure the Zerg back to your base. Once the Zerg arrive||->到你的基地。一旦虫族进入那里，你将获得对||
 
-               there, you'll be able to assert direct control over them.->               它们的直接控制。
+there, you'll be able to assert direct control over them.->它们的直接控制。
 
-               Perfect! With these Zerg I can construct a new hive cluster!  ||->               太好了！以这些虫族我将可以建起一个新的蜂||
+Perfect! With these Zerg I can construct a new hive cluster!  ||->太好了！以这些虫族我将可以建起一个新的蜂||
 
-               Once my forces have grown strong enough, I can assault the ||->               房群落。一旦我的部队变得足够强大，我就能||
+Once my forces have grown strong enough, I can assault the ||->房群落。一旦我的部队变得足够强大，我就能||
 
-               Psi Disrupter directly!->               直接对干扰器发动打击了。
+Psi Disrupter directly!->直接对干扰器发动打击了。
 
-               Excellent work! Although these Zerg are now under my control, I||->               干的很出色！虽然这些虫族已经在我控制之下。||
+Excellent work! Although these Zerg are now under my control, I||->干的很出色！虽然这些虫族已经在我控制之下。||
 
-               sense that there are more Zerg out there. We must lure as many||->               我能感应到附近还有更多的虫族。我们必须尽||
+sense that there are more Zerg out there. We must lure as many||->我能感应到附近还有更多的虫族。我们必须尽||
 
-               of them here as possible!->               可能多的将他们吸收进来。
+of them here as possible!->可能多的将他们吸收进来。
 
-               Um, with all due respect to Miss Kerrigan sir. These critters make||->               嗯，尊敬的凯瑞甘小姐长官。这些生物快把我||
+Um, with all due respect to Miss Kerrigan sir. These critters make||->嗯，尊敬的凯瑞甘小姐长官。这些生物快把我||
 
-               me nervous as hell. I sure would appreciate some immediate evac.->               吓傻了。如果您能马上放我走我将万分感激。||
+me nervous as hell. I sure would appreciate some immediate evac.->吓傻了。如果您能马上放我走我将万分感激。||
 

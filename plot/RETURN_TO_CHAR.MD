@@ -18,9 +18,9 @@ Touching. Look, boys, either of these plans will work, but let's not waste any t
 
 Agreed. Executor, deploy your forces. May Adun be with you!->同意。执行官，部署你的部队。愿吾||神与你同在！
 
-               Executor, the Khalis is ours! Let us depart this wretched ||->               执行官，柯哈里斯是我们的了！让我们离开这||
+Executor, the Khalis is ours! Let us depart this wretched ||->执行官，柯哈里斯是我们的了！让我们离开这||
 
-               world and return to Shakuras! ... Provided there is still a ||->               不幸的地方返回沙古拉斯。假如沙古拉斯还没||
+world and return to Shakuras! ... Provided there is still a ||->不幸的地方返回沙古拉斯。假如沙古拉斯还没||
 
-               Shakuras to return to...->               有陷落的话…
+Shakuras to return to...->有陷落的话…
 

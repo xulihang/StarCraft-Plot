@@ -24,67 +24,67 @@ Yes, sir.->明白。
 
 Great. Let's get this over with.->好吧，我们这就行动。
 
-               A Terran building with hit points||->               一个红血的人族建筑物如果不||
+A Terran building with hit points||->一个红血的人族建筑物如果不||
 
-               it is repaired.->               倒塌。
+it is repaired.->倒塌。
 
-               If we're doin' this, we'd better hurry. That ||->               如果我们打算救援他们的话就得||
+If we're doin' this, we'd better hurry. That ||->如果我们打算救援他们的话就得||
 
-               ship won't last long against those Zerg.->               赶快了，那艘巡洋舰撑不住虫族进攻的。
+ship won't last long against those Zerg.->赶快了，那艘巡洋舰撑不住虫族进攻的。
 
-               You're about the last folks I expected to||->               你们是我最不期望出现在这里的人。||
+You're about the last folks I expected to||->你们是我最不期望出现在这里的人。||
 
-               show up. What's your angle here, Mengsk?->               阿克图拉斯，你到底有什么阴谋？
+show up. What's your angle here, Mengsk?->阿克图拉斯，你到底有什么阴谋？
 
-               Our angle? I'll give you an angle, you slimy||->               我们有阴谋？！我给你一个阴谋，||
+Our angle? I'll give you an angle, you slimy||->我们有阴谋？！我给你一个阴谋，||
 
-               Confederate piece of -->               你们烂联盟就有如一陀——
+Confederate piece of -->你们烂联盟就有如一陀——
 
-               Jim, enough! I'll handle this.The||->               够了！我来处理这边的事情。||
+Jim, enough! I'll handle this.The||->够了！我来处理这边的事情。||
 
-               Confederacy is falling apart, Duke. Its||->               杜克将军，你现在孤立无援，||
+Confederacy is falling apart, Duke. Its||->杜克将军，你现在孤立无援，||
 
-               colonies are in open revolt. The Zerg are||->               虫族又对这里疯狂地进攻，||
+colonies are in open revolt. The Zerg are||->虫族又对这里疯狂地进攻，||
 
-               rampaging unchecked. What would have||->               如果我们今天没有出现，||
+rampaging unchecked. What would have||->如果我们今天没有出现，||
 
-               happened here today if we hadn't shown||->               你猜这里会有什么后果？||
+happened here today if we hadn't shown||->你猜这里会有什么后果？||
 
-               up?->               
+up?->
 
-               Your point?->               那你想怎么样？
+Your point?->那你想怎么样？
 
-               I'm giving you a choice.||->               我给你一个选择。||
+I'm giving you a choice.||->我给你一个选择。||
 
-               You can return to the Confederacy and||->               你可以回到联盟然后输掉这场战役，||
+You can return to the Confederacy and||->你可以回到联盟然后输掉这场战役，||
 
-               lose, or you can join us and help save our||->               或是你加入我们，帮助我们拯救我们的种族||
+lose, or you can join us and help save our||->或是你加入我们，帮助我们拯救我们的种族||
 
-               entire race from being overrun by the Zerg. I||->               不被虫族所灭亡。||
+entire race from being overrun by the Zerg. I||->不被虫族所灭亡。||
 
-               don't think it's a difficult decision.->               我认为这对你来说并不难选。
+don't think it's a difficult decision.->我认为这对你来说并不难选。
 
-                    Join forces? With you? I'm a general, for ||->                    加入你们？！天啊！我是将军啊！||
+     Join forces? With you? I'm a general, for ||->     加入你们？！天啊！我是将军啊！||
 
-                    God's sake!->                    
+     God's sake!->     
 
-               A general without an army. I'm offering||->               一个光杆将军。||
+A general without an army. I'm offering||->一个光杆将军。||
 
-               you a position in my cabinet, not just some ||->               我将会让你担任我的内阁之一，||
+you a position in my cabinet, not just some ||->我将会让你担任我的内阁之一，||
 
-               backwater post. Don't test my patience,||->               而不是一个穷乡僻壤的小将军。||
+backwater post. Don't test my patience,||->而不是一个穷乡僻壤的小将军。||
 
-               Edmund.->               你不要再测试我的耐性了，杜克将军！
+Edmund.->你不要再测试我的耐性了，杜克将军！
 
-                    All right, Mengsk. You've got a deal.->                    好吧　…　成交了！
+     All right, Mengsk. You've got a deal.->     好吧　…　成交了！
 
-                    You've made the right choice, General ||->                    你作了一个正确的选择，杜克将军。||
+     You've made the right choice, General ||->     你作了一个正确的选择，杜克将军。||
 
-                    Duke.->                    
+     Duke.->     
 
-               I can't believe you're really going to trust||->               （不爽）||
+I can't believe you're really going to trust||->（不爽）||
 
-               this snake!->               我不敢相信你竟然信任这只老狐狸！
+this snake!->我不敢相信你竟然信任这只老狐狸！
 
-               Don't worry, Jim. He's our snake now.->               不用担心。他现在在我们的掌握之中了。
+Don't worry, Jim. He's our snake now.->不用担心。他现在在我们的掌握之中了。
 

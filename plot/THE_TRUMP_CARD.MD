@@ -22,33 +22,33 @@ Just as they destroyed Korhal with nuclear weapons to establish dominance a gene
 
 And I know just the way. Lieutenant Kerrigan is going to plant an emitter at the Confederate base camp. Commander, you will provide her with an escort. When the Zerg arrive, they'll break the blockade for us and we'll make our escape. Now get moving.->凯瑞甘，我们也做好了一个强力的||幽能发生器，你的任务就是把这个||东西植进联盟军的基地里去！指挥||官，你负责保护她的安全。一旦发||生器开始运作，不用多久就会引来||上百万的虫族，那个时候异形生物||就会为我们冲破联盟的封锁线了，||我们将可以成功地撤离此地，把这||里的烂摊子交给联盟的那些家伙||去处理吧！
 
-               I'm having doubts about this, Arcturus. I ||->               阿克图拉斯，我到现在还是有疑问。||
+I'm having doubts about this, Arcturus. I ||->阿克图拉斯，我到现在还是有疑问。||
 
-               just don't think anyone deserves to have ||->               我不认为联盟会有那么大的错误，||
+just don't think anyone deserves to have ||->我不认为联盟会有那么大的错误，||
 
-               the Zerg unleashed on them.->               必须接受让虫族攻击他们的惩罚。
+the Zerg unleashed on them.->必须接受让虫族攻击他们的惩罚。
 
-               I know you have personal feelings about ||->               我知道你个人对此有想法，||
+I know you have personal feelings about ||->我知道你个人对此有想法，||
 
-               this, but you can't let your past cloud your ||->               但是你不能让你的过去的经历||
+this, but you can't let your past cloud your ||->但是你不能让你的过去的经历||
 
-               judgment. Carry out your orders, lieutenant.->               影响了你的判断。执行你的命令。
+judgment. Carry out your orders, lieutenant.->影响了你的判断。执行你的命令。
 
-               Yes, sir.->               是。
+Yes, sir.->是。
 
-               Use the Liftoff command to||->               使用"升起"命令来移动你的建筑。||
+Use the Liftoff command to||->使用"升起"命令来移动你的建筑。||
 
-               move your buildings.               ||->                              ||
+move your buildings.||->||
 
-               Psi-Emitter in place. Just promise me we'll ||->               幽能发生器已经安置好了。||
+Psi-Emitter in place. Just promise me we'll ||->幽能发生器已经安置好了。||
 
-               never do anything like this again.->               答应我以后我们不会再做这种事情。 
+never do anything like this again.->答应我以后我们不会再做这种事情。 
 
-               We will do whatever it takes to save ||->               只要对我们人类有益，什么都可以做。||
+We will do whatever it takes to save ||->只要对我们人类有益，什么都可以做。||
 
-               humanity. Our responsibility is too great to ||->               我们的责任太重大了，小小的牺牲不算什么。||
+humanity. Our responsibility is too great to ||->我们的责任太重大了，小小的牺牲不算什么。||
 
-               do any less.->               
+do any less.->
 
 ||The Zerg, lured by the Psi Emitter's signal, descended upon the unsuspecting Confederate forces and annihilated them.||||Once again, the Protoss fleet, under the command of High Templar Tassadar, arrived and incinerated the planet.||->||成千上万的虫子被幽能发生器吸引，如潮水一般涌向毫无防备的联盟基地||，淹没了他们。||||神族的舰队又一次在圣堂武士塔萨达的带领下，登陆安提哥，用光子武器||烧遍了整个行星。||
 

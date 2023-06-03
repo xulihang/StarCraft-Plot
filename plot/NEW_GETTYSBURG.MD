@@ -18,65 +18,65 @@ I heard. I'm going down there. Arcturus knows what he's doing. I can't back out 
 
 Funny. I never thought of you as anyone's martyr.->真可笑。我还不知道你竟然会为别||人牺牲。
 
-               Why are you doing this, Kerrigan? Look. I ||->               你为什么这样做，凯瑞甘？||
+Why are you doing this, Kerrigan? Look. I ||->你为什么这样做，凯瑞甘？||
 
-               know about your past. I mean, I've heard ||->               你听我说，我知道你的过去。我是说，||
+know about your past. I mean, I've heard ||->你听我说，我知道你的过去。我是说，||
 
-               the rumors. I know you were a part of those ||->               我听说了那些传言。我知道你曾是||
+the rumors. I know you were a part of those ||->我听说了那些传言。我知道你曾是||
 
-               experiments with the Zerg; that Mengsk ||->               以前关于虫族实验的一部份，||
+experiments with the Zerg; that Mengsk ||->以前关于虫族实验的一部份，||
 
-               came and saved you, but you don't owe ||->               是阿克图拉斯救了你。||
+came and saved you, but you don't owe ||->是阿克图拉斯救了你。||
 
-               him this! Hell, I've saved your butt||->               可是你并不欠他什么！要知道，||
+him this! Hell, I've saved your butt||->可是你并不欠他什么！要知道，||
 
-               plenty of times.->               我也救过你好多次呢。
+plenty of times.->我也救过你好多次呢。
 
-               Jimmy, drop the knight-in-shining-armor routine. ||->            吉姆，别玩英雄救美那一套了。||
+Jimmy, drop the knight-in-shining-armor routine. ||->            吉姆，别玩英雄救美那一套了。||
 
-               It suits you sometimes. Just not ... not now. I don't ||->            这对你有时很适合。只是现在…现在不行。||
+It suits you sometimes. Just not ... not now. I don't ||->            这对你有时很适合。只是现在…现在不行。||
 
-               need to be rescued. I know what I'm doing. The ||->            我不用别人来救。我知道我在干什么。||
+need to be rescued. I know what I'm doing. The ||->            我不用别人来救。我知道我在干什么。||
 
-               Protoss are coming to destroy the entire planet, not ||->             神族舰队要来毁灭整个行星，不只是虫族。||
+Protoss are coming to destroy the entire planet, not ||->             神族舰队要来毁灭整个行星，不只是虫族。||
 
-               just the Zerg. I know that because ... well I just know ||->            我知道这些是因为…哎，反正我就是知道。||
+just the Zerg. I know that because ... well I just know ||->            我知道这些是因为…哎，反正我就是知道。||
 
-               it. I am a Ghost, remember? Once we've dealt with ||->            我是幽灵战士，还记得么？我们打退神族后，||
+it. I am a Ghost, remember? Once we've dealt with ||->            我是幽灵战士，还记得么？我们打退神族后，||
 
-               the Protoss, we can  do something about the Zerg. ||->            就能对付虫族了。||
+the Protoss, we can  do something about the Zerg. ||->            就能对付虫族了。||
 
-               Arcturus will come around. I know he will.->            阿克图拉斯能应付得来。我知道他会的。
+Arcturus will come around. I know he will.->            阿克图拉斯能应付得来。我知道他会的。
 
-               I hope you're right, darlin'. Good huntin'!->               希望你是对的，亲爱的.好好干！
+I hope you're right, darlin'. Good huntin'!->希望你是对的，亲爱的.好好干！
 
-               Receiving incoming transmission:->               接收传来的讯息：
+Receiving incoming transmission:->接收传来的讯息：
 
-               This is Kerrigan. We've neutralized the ||->               凯瑞甘报告。||
+This is Kerrigan. We've neutralized the ||->凯瑞甘报告。||
 
-               Protoss, but there's a wave of Zerg ||->               我们已经摧毁神族舰队，||
+Protoss, but there's a wave of Zerg ||->我们已经摧毁神族舰队，||
 
-               advancing on this position. We need ||->               可是现在有大量虫族进攻。||
+advancing on this position. We need ||->可是现在有大量虫族进攻。||
 
-               immediate evac.->               情况十分危急…我们需要立刻撤离。
+immediate evac.->情况十分危急…我们需要立刻撤离。
 
-               Belay that order. We're moving out.->               忽视她的请求。我们要走了。
+Belay that order. We're moving out.->忽视她的请求。我们要走了。
 
-               What? You're not just gonna leave them?->               什么？你不会打算把他们留在那里吧！
+What? You're not just gonna leave them?->什么？你不会打算把他们留在那里吧！
 
-               All ships prepare to move away from ||->               所有舰队等我下令，||
+All ships prepare to move away from ||->所有舰队等我下令，||
 
-               Tarsonis on my mark.->               我们准备离开塔尔苏尼斯。
+Tarsonis on my mark.->我们准备离开塔尔苏尼斯。
 
-               Uh, boys? How about that evac?->               呃…怎么了？撤离了吗？
+Uh, boys? How about that evac?->呃…怎么了？撤离了吗？
 
-               Damn you, Arcturus! Don't do this.->               该死的！阿克图拉斯，你不可以这样做！
+Damn you, Arcturus! Don't do this.->该死的！阿克图拉斯，你不可以这样做！
 
-               It's done. Helmsman, signal the fleet, and ||->               就这样。领航员，向全舰队发出讯号，||
+It's done. Helmsman, signal the fleet, and ||->就这样。领航员，向全舰队发出讯号，||
 
-               take us out of orbit. Now!->               离开行星轨道。快！
+take us out of orbit. Now!->离开行星轨道。快！
 
-               Commander? Jim? What the hell's going on ||->               指挥官？吉姆？||
+Commander? Jim? What the hell's going on ||->指挥官？吉姆？||
 
-               up there-->               那里到底发生什么事了？
+up there-->那里到底发生什么事了？
 

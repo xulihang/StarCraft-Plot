@@ -10,17 +10,17 @@ Remnants of the Protoss fleet still linger within this planet's orbit. They will
 
 My Brood shall aid you, Cerebrate, should you require assistance.->我的族群会在你需要的时候援助你||，脑虫。
 
-               Do with my minions as you will Cerebrate.||->               带上我的部队吧，||
+Do with my minions as you will Cerebrate.||->带上我的部队吧，||
 
-               They will serve you unquestioningly. Go and||->               它们将会忠心耿耿地服从你。||
+They will serve you unquestioningly. Go and||->它们将会忠心耿耿地服从你。||
 
-               bring swift wrath to all who would oppose||->               现在去给种群的敌人以致命的打击吧！||
+bring swift wrath to all who would oppose||->现在去给种群的敌人以致命的打击吧！||
 
-               the Swarm.->               
+the Swarm.->
 
-               Prepare yourself, Cerebrate. Your first jump||->               脑虫，做好准备。你的第一次超空间传送||
+Prepare yourself, Cerebrate. Your first jump||->脑虫，做好准备。你的第一次超空间传送||
 
-               through warp space could be... unsettling.->               可能会非常的…不舒服。
+through warp space could be... unsettling.->可能会非常的…不舒服。
 
 ||With the Protoss forces beaten and scattered, the Overmind has withdrawn the Swarms to the remote ash world of Char.||||->||神族在塔尔苏尼斯行星上遭受到了前所未有的挫败。||||主宰利用这个机会将虫群移到了偏远的熔岩行星，查尔。||||
 

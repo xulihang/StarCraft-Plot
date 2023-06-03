@@ -26,41 +26,41 @@ I do not ask this for myself.  Nor do I ask it on Kerrigan's behalf.  I ask you 
 
 Very well, Matriarch.  The Overmind will die this day.->好吧，酋长。今天就是主宰的末日。||
 
-               It's done, Kerrigan. The Overmind is dead as you wished.||->               好了，凯瑞甘。主宰如你所愿已经死了。现在||
+It's done, Kerrigan. The Overmind is dead as you wished.||->好了，凯瑞甘。主宰如你所愿已经死了。现在||
 
-               Now I demand that you release the Matriarch at once!->               我要你立刻释放女酋长。
+Now I demand that you release the Matriarch at once!->我要你立刻释放女酋长。
 
-               Of course.  Raszagal, do you wish to return to your tribe?->               拉施嘉尔，你愿意回到你的部落中去吗？
+Of course.  Raszagal, do you wish to return to your tribe?->拉施嘉尔，你愿意回到你的部落中去吗？
 
-               No, my Queen. I wish only to serve you and remain at your side.->               不，我的女皇。我只愿留在您这边为您效命。
+No, my Queen. I wish only to serve you and remain at your side.->不，我的女皇。我只愿留在您这边为您效命。
 
-               What treachery is this, Kerrigan? This pathetic creature||->               你又在搞什么背叛的名堂，凯瑞甘？这个可怜||
+What treachery is this, Kerrigan? This pathetic creature||->你又在搞什么背叛的名堂，凯瑞甘？这个可怜||
 
-               cannot possibly be Raszagal!->               虫不可能是拉施嘉尔！
+cannot possibly be Raszagal!->虫不可能是拉施嘉尔！
 
-               Ha ha ha. I promised that I'd allow her to return to you, Zeratul.||->               哈哈哈。我答应过你我会允许让她回到你们那||
+Ha ha ha. I promised that I'd allow her to return to you, Zeratul.||->哈哈哈。我答应过你我会允许让她回到你们那||
 
-               But it looks to me like she doesn't want to go.->               里，泽拉托。但我看上去她并不想走。
+But it looks to me like she doesn't want to go.->里，泽拉托。但我看上去她并不想走。
 
-               You have corrupted her! Somehow you have poisoned her||->               你腐蚀了她的精神！你毒害了她的思想！快把||
+You have corrupted her! Somehow you have poisoned her||->你腐蚀了她的精神！你毒害了她的思想！快把||
 
-               thoughts. Restore her to her rightful self, or you will pay dearly||->               她恢复成正直的本人，否则为这个错误付出巨||
+thoughts. Restore her to her rightful self, or you will pay dearly||->她恢复成正直的本人，否则为这个错误付出巨||
 
-               for this offense, Kerrigan!->               大的代价，凯瑞甘！
+for this offense, Kerrigan!->大的代价，凯瑞甘！
 
-               All right, Zeratul, you've got me. I made your Matriarch my||->               好吧，泽拉托，你总算逮住我了。我在和你在||
+All right, Zeratul, you've got me. I made your Matriarch my||->好吧，泽拉托，你总算逮住我了。我在和你在||
 
-               slave long before I  joined you on Shakuras. She made the||->               沙古拉斯上联盟前就已经把你们的女酋长变成||
+slave long before I  joined you on Shakuras. She made the||->沙古拉斯上联盟前就已经把你们的女酋长变成||
 
-               mistake of underestimating my power just like everyone else||->               了我的奴隶。她像其他所有人一样错误的低估||
+mistake of underestimating my power just like everyone else||->了我的奴隶。她像其他所有人一样错误的低估||
 
-               did. And now she's paid the price.||->               了我的能力。现在她为此付出了代价。||
+did. And now she's paid the price.||->了我的能力。现在她为此付出了代价。||
 
-               With her as my puppet I was able to eradicate the Renegades||->               有了她做我的傀儡我便能消灭沙古拉斯上的变||
+With her as my puppet I was able to eradicate the Renegades||->有了她做我的傀儡我便能消灭沙古拉斯上的变||
 
-               on Shakuras, and use you to kill the overmind. And as you can||->               节虫族，然后再用你杀死主宰，就如你所见到||
+on Shakuras, and use you to kill the overmind. And as you can||->节虫族，然后再用你杀死主宰，就如你所见到||
 
-               see, your leader belongs to me now. Not bad, huh?->               的，你们的领袖现在是我的了。不赖吧，嗯？
+see, your leader belongs to me now. Not bad, huh?->的，你们的领袖现在是我的了。不赖吧，嗯？
 
-               We shall see, Kerrigan. We shall see...->               我们走着瞧，凯瑞甘。我们走着瞧…
+We shall see, Kerrigan. We shall see...->我们走着瞧，凯瑞甘。我们走着瞧…
 

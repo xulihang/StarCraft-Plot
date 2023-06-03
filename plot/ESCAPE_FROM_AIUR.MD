@@ -24,35 +24,35 @@ Hey boys, mind if we tag along? I figure headin' anywhere's got to be better tha
 
 Commander Raynor. ||As ever, your assistance is appreciated. We would be honored if you joined us.->雷纳指挥官，一直以来我们都很感激||你的帮助。有你的加入我们将十分荣||幸。
 
-               We should destroy these nydus canals so as||->               我们得摧毁这些虫族地道，以阻止虫族利用它们||
+We should destroy these nydus canals so as||->我们得摧毁这些虫族地道，以阻止虫族利用它们||
 
-               to stem the flow of Zerg reinforcements through||->               往这里源源不断地发送援军。
+to stem the flow of Zerg reinforcements through||->往这里源源不断地发送援军。
 
-               them.->               
+them.->
 
-               En Taro Adun! There is no time to waste. We||->               吾神万岁! 不要在这里浪费时间，我们必须立||
+En Taro Adun! There is no time to waste. We||->吾神万岁! 不要在这里浪费时间，我们必须立||
 
-               must join our brethren in battle.->               刻去增援那些作战中的弟兄们。
+must join our brethren in battle.->刻去增援那些作战中的弟兄们。
 
-               Ah, it is good to see more of our brethren||->               啊，能在战场上遇见更多的弟兄实在是令人愉||
+Ah, it is good to see more of our brethren||->啊，能在战场上遇见更多的弟兄实在是令人愉||
 
-               on the battlefield.->               快。
+on the battlefield.->快。
 
-               En Taro Adun, Zeratul! This is all that remains of our forces in this ||->               吾神万岁，泽拉托！这是本省内我们所剩的全||
+En Taro Adun, Zeratul! This is all that remains of our forces in this ||->吾神万岁，泽拉托！这是本省内我们所剩的全||
 
-               province. We have found the location of the warp gate, but there||->               部部队了。我们已找到了传送门的位置，但被||
+province. We have found the location of the warp gate, but there||->部部队了。我们已找到了传送门的位置，但被||
 
-               is a sizeable Zerg force blocking the way.->               一只数量颇为可观的虫族部队挡住了去路。
+is a sizeable Zerg force blocking the way.->一只数量颇为可观的虫族部队挡住了去路。
 
-               Executor, I have located the warp gate.  We||->               执行官，我已安全控制了时空传送门。我们必||
+Executor, I have located the warp gate.  We||->执行官，我已安全控制了时空传送门。我们必||
 
-               must hurry and evacuate the Khalai survivors||->               须在虫族反扑前抓紧时间疏散克哈莱的幸存者们。
+must hurry and evacuate the Khalai survivors||->须在虫族反扑前抓紧时间疏散克哈莱的幸存者们。
 
-               before the Zerg return!->               
+before the Zerg return!->
 
-               Just worry about getting your people through the gate,  Executor.||->               你只用考虑如何把你们的人送过传送门就可以||
+Just worry about getting your people through the gate,  Executor.||->你只用考虑如何把你们的人送过传送门就可以||
 
-               Fenix and I will hang back and protect our flank until everyone is ||->               了，执行官。菲尼克斯和我会留在后面保护队||
+Fenix and I will hang back and protect our flank until everyone is ||->了，执行官。菲尼克斯和我会留在后面保护队||
 
-               through.->               伍尾部直到所有人都穿过门去。
+through.->伍尾部直到所有人都穿过门去。
 

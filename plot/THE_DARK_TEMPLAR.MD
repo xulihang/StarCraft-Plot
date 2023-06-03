@@ -16,41 +16,41 @@ Mayhap, O Queen. Or is it only that I need not flaunt my power in such an infant
 
 Foolish Templar. Prepare your defenses! I will come for you soon.->愚蠢的圣堂武士，作好准备吧，我||一定来领教一下。
 
-               Kerrigan, I sense something strange about ||->               凯瑞甘，我觉得这个圣堂武士有些不同。||
+Kerrigan, I sense something strange about ||->凯瑞甘，我觉得这个圣堂武士有些不同。||
 
-               this Templar. Perhaps you should ||->               也许你该重新考虑是否进攻。||
+this Templar. Perhaps you should ||->也许你该重新考虑是否进攻。||
 
-               reconsider your attack.-> 
+reconsider your attack.-> 
 
-               For the last time Zasz, you question my||->               萨斯，这是最后一次了！你绝对不能|| 
+For the last time Zasz, you question my||->萨斯，这是最后一次了！你绝对不能|| 
 
-               motives and authority at your own peril.->               怀疑我的动机跟权威！
+motives and authority at your own peril.->怀疑我的动机跟权威！
 
-               You dare threaten a Cerebrate? You will be||->               你敢威胁一个脑虫？||
+You dare threaten a Cerebrate? You will be||->你敢威胁一个脑虫？||
 
-               the doom of us all!->               你的愚蠢行为会害我们都死掉的！
+the doom of us all!->你的愚蠢行为会害我们都死掉的！
 
-               Where are you Tassadar? Do your ||->               塔萨达你在哪里？||
+Where are you Tassadar? Do your ||->塔萨达你在哪里？||
 
-               underlings always do your fighting for you?->               你只会靠你的部下替你战斗吗？
+underlings always do your fighting for you?->你只会靠你的部下替你战斗吗？
 
-               This shall be our battleground, O Queen.||->               女皇，我们的战场在这里！||
+This shall be our battleground, O Queen.||->女皇，我们的战场在这里！||
 
-                Face me here, and I will defeat you myself.->               面对我吧，我会亲自击败你。
+ Face me here, and I will defeat you myself.->面对我吧，我会亲自击败你。
 
               NEW MISSION OBJECTIVES||->              新的任务目标||
 
-               - Bring Kerrigan to Tassadar's challenge,||->               - 带凯瑞甘单独去接受塔萨达的挑战. ||
+- Bring Kerrigan to Tassadar's challenge,||->- 带凯瑞甘单独去接受塔萨达的挑战. ||
 
-                 alone.->                 
+  alone.->  
 
-                An illusion? Are you afraid to face me, ||->                是幻象？塔萨达，你不敢面对我吗？||
+ An illusion? Are you afraid to face me, ||-> 是幻象？塔萨达，你不敢面对我吗？||
 
-                Templar?-> 
+ Templar?-> 
 
-                So long as you continue to be so ||->                女皇，既然你的行为还是这么幼稚，||
+ So long as you continue to be so ||-> 女皇，既然你的行为还是这么幼稚，||
 
-                predictable, O Queen, I need not face||->                我就不必亲自跟你作战……|| 
+ predictable, O Queen, I need not face||-> 我就不必亲自跟你作战……|| 
 
-                you at all. You are your own worst enemy.->                你最大的敌人是你自己。
+ you at all. You are your own worst enemy.-> 你最大的敌人是你自己。
 

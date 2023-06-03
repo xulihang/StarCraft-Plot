@@ -8,29 +8,29 @@ Greetings, Magistrate. I'm General Edmund Duke of the Confederate Security Force
 
 Transmission ended. I have contacted the local Marshal, James Raynor. Raynor has agreed to meet your personnel en route and escort them to the new wasteland site. ->传送讯息结束。我已经与当地的民||兵首领，吉姆·雷纳取得了联系，||雷纳将在路上接应你的人员，并||把他们护送到指定地点。
 
-               You can select multiple units by clicking ||->               点击鼠标左键拖出方框 ||
+You can select multiple units by clicking ||->点击鼠标左键拖出方框 ||
 
-               and dragging a box around them.||->               可以选定多个单位. ||
+and dragging a box around them.||->可以选定多个单位. ||
 
-               Alternatively, you can hold CTRL and click||->               或者, 按住CTRL同时点击一个单位||
+Alternatively, you can hold CTRL and click||->或者, 按住CTRL同时点击一个单位||
 
-               on a unit to select multiple units of that type.||->               可以选定和该单位同一类的多个单位.||
+on a unit to select multiple units of that type.||->可以选定和该单位同一类的多个单位.||
 
-               I can't believe we're being sent to ||->               真不敢相信, 我们竟被送到 ||
+I can't believe we're being sent to ||->真不敢相信, 我们竟被送到 ||
 
-               the Wasteland. These Confederates ||->               荒地来. 联盟以为他们能 ||
+the Wasteland. These Confederates ||->荒地来. 联盟以为他们能 ||
 
-               think they can push anybody around.||->               把谁都使唤得团团转.||
+think they can push anybody around.||->把谁都使唤得团团转.||
 
-               Howdy, boys. I'm Jim Raynor, the Marshal ||->               伙计们，大家好啊，我是吉姆·雷纳， ||
+Howdy, boys. I'm Jim Raynor, the Marshal ||->伙计们，大家好啊，我是吉姆·雷纳， ||
 
-               of these parts.->               本地民兵的统领。
+of these parts.->本地民兵的统领。
 
-               - Raynor must survive.||->               - 雷纳不能死亡。||
+- Raynor must survive.||->- 雷纳不能死亡。||
 
-               Infantry units, such as Marines, can be||->               兵营负责训练步兵，例如机枪兵。||
+Infantry units, such as Marines, can be||->兵营负责训练步兵，例如机枪兵。||
 
-               trained at this facility.->               
+trained at this facility.->
 
-               Marine counter activated.->               机枪兵计数器启动。
+Marine counter activated.->机枪兵计数器启动。
 

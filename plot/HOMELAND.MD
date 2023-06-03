@@ -20,65 +20,65 @@ Yes, and that makes them all the more dangerous. They hunt you even now, Tassada
 
 En Taro Adun, noble Fenix. Executor, it seems that if our world is to live, we must protect the Dark Templar from our own brethren. Although it pains me greatly, not even the Conclave shall stand in our way.->吾神万岁，可敬的费尼克斯。执行||官，看来为了我们的家园。我们只||有保护黑暗圣堂武士，而向自己人||开战。尽管这令我感到痛苦，但最||高议会绝不能阻挡我们。
 
-               Executor, you and the traitor Tassadar are ||->               执行官，你们和叛徒塔萨达必须立||
+Executor, you and the traitor Tassadar are ||->执行官，你们和叛徒塔萨达必须立||
 
-               to cease your resistance and surrender ||->               即停止抵抗，并解除你们的武装接||
+to cease your resistance and surrender ||->即停止抵抗，并解除你们的武装接||
 
-               yourselves to the judgment of the Conclave. ||->               受最高议会的审判。||
+yourselves to the judgment of the Conclave. ||->受最高议会的审判。||
 
-               We will take the outlaw, Zeratul, into ||->               我们会依照卡厄拉的法律对被驱逐||
+We will take the outlaw, Zeratul, into ||->我们会依照卡厄拉的法律对被驱逐||
 
-               custody and deal with him as is written by ||->               者泽拉托进行处置。||
+custody and deal with him as is written by ||->者泽拉托进行处置。||
 
-               the Khala's law.->               
+the Khala's law.->
 
-               Flee back to your masters Aldaris, and ||->               不要阻止我，阿尔达瑞斯！你这样||
+Flee back to your masters Aldaris, and ||->不要阻止我，阿尔达瑞斯！你这样||
 
-               huddle with them in darkness! For your ||->               做只会将你的同伴，以及我们整个||
+huddle with them in darkness! For your ||->做只会将你的同伴，以及我们整个||
 
-               actions shall set us all unto the Zerg!->               种族送入虫族的魔掌！
+actions shall set us all unto the Zerg!->种族送入虫族的魔掌！
 
-               Executor! Aldaris! This madness must stop!||->               执行官！阿尔达瑞斯！立即停止你们愚蠢的||
+Executor! Aldaris! This madness must stop!||->执行官！阿尔达瑞斯！立即停止你们愚蠢的||
 
-               The sight of my brethren slaughtering one ||->               行为! 我不能坐视我的弟兄们自相残杀。阿||
+The sight of my brethren slaughtering one ||->行为! 我不能坐视我的弟兄们自相残杀。阿||
 
-               another is more than I can stand. Though I||->               尔达瑞斯，我恐怕你会把我们都给毁了……||
+another is more than I can stand. Though I||->尔达瑞斯，我恐怕你会把我们都给毁了……||
 
-               fear you would doom us all, Aldaris, I ||->               我已经决定向最高议会投降。||
+fear you would doom us all, Aldaris, I ||->我已经决定向最高议会投降。||
 
-               surrender myself to the Conclave. En Taro||->               吾神万岁，执行官。||
+surrender myself to the Conclave. En Taro||->吾神万岁，执行官。||
 
-               Adun, Executor. Don't give up the fight!->               永远不要放弃对虫族的战斗！
+Adun, Executor. Don't give up the fight!->永远不要放弃对虫族的战斗！
 
-               Tassadar of the Templar, by your actions you have severed ||->               身为圣堂武士的塔萨达，你的行为已经让你||
+Tassadar of the Templar, by your actions you have severed ||->身为圣堂武士的塔萨达，你的行为已经让你||
 
-               yourself from the mercy of your brethren. You refused to destroy the ||->               的伙伴都得到了宽恕。你拒绝了摧毁人族世||
+yourself from the mercy of your brethren. You refused to destroy the ||->的伙伴都得到了宽恕。你拒绝了摧毁人族世||
 
-               Terran worlds as was commanded. You have questioned time and ||->               界的命令。在我们的祖国最危险的时候，对||
+Terran worlds as was commanded. You have questioned time and ||->界的命令。在我们的祖国最危险的时候，对||
 
-               time again, the sacred will of the Conclave. And you have||->               神圣的最高议会一次次的猜疑。当家园最危||
+time again, the sacred will of the Conclave. And you have||->神圣的最高议会一次次的猜疑。当家园最危||
 
-               abandoned your Homeworld in its darkest hour. Most grievous of all||->               急的时候你抛弃了她。最可悲的是你居然勾||
+abandoned your Homeworld in its darkest hour. Most grievous of all||->急的时候你抛弃了她。最可悲的是你居然勾||
 
-               is that you have allied yourself with the blasphemous Dark Ones, ||->               结亵渎神圣的黑暗之徒，又去学习他们的黑||
+is that you have allied yourself with the blasphemous Dark Ones, ||->结亵渎神圣的黑暗之徒，又去学习他们的黑||
 
-               and learned to utilize their profane powers in tandem with our own! ||->               暗力量并与自己的光明力量一同使用！我该||
+and learned to utilize their profane powers in tandem with our own! ||->暗力量并与自己的光明力量一同使用！我该||
 
-               What say you, oh fallen Templar?->               怎么评价你呢，堕落的圣堂武士？
+What say you, oh fallen Templar?->怎么评价你呢，堕落的圣堂武士？
 
-               Aldaris, I submit myself to the Conclave's judgment. But know this, ||->               阿尔达瑞斯，我接受最高议会的审判，但是||
+Aldaris, I submit myself to the Conclave's judgment. But know this, ||->阿尔达瑞斯，我接受最高议会的审判，但是||
 
-               given the same choices again, I would surely have made them. I ||->               你要明白：即使能够一切从头来过，我还是||
+given the same choices again, I would surely have made them. I ||->你要明白：即使能够一切从头来过，我还是||
 
-               have sacrificed all that our world might live. I have sullied my honor, ||->               会做出相同的选择。我牺牲了一切去维持我||
+have sacrificed all that our world might live. I have sullied my honor, ||->会做出相同的选择。我牺牲了一切去维持我||
 
-               I have discarded my rank and standing, and I have even broken ||->               们的世界能够继续下去，我的荣誉，我的立||
+I have discarded my rank and standing, and I have even broken ||->们的世界能够继续下去，我的荣誉，我的立||
 
-               our own most ancient traditions. But never think that I would, for ||->               场和我的名声，我甚至破坏了我们的传统。||
+our own most ancient traditions. But never think that I would, for ||->场和我的名声，我甚至破坏了我们的传统。||
 
-               one moment, regret my actions. For I am Templar, and above all ||->               但是我一刻也没有后悔过，做为一名圣堂武||
+one moment, regret my actions. For I am Templar, and above all ||->但是我一刻也没有后悔过，做为一名圣堂武||
 
-               else, I have sworn to Protect our Homeworld 'till the end.->               士，我发誓要保卫我们的家园直到最后一刻！
+else, I have sworn to Protect our Homeworld 'till the end.->士，我发誓要保卫我们的家园直到最后一刻！
 
 ||Tassadar was taken into Judicator custody and sentenced to stand trial for his crimes against the Conclave. Fenix, Raynor and Tassadar's followers escaped from the Conclave's agents, as the Dark Templar slipped away in the chaos.||->||塔萨达被最高议会拘禁起来，并将为他对神族最高议会所犯的罪行接受审||判。费尼克斯，雷纳和塔萨达的部下从最高议会的搜查中逃脱了，黑暗圣||堂武士则遁入了混沌深处。||
 

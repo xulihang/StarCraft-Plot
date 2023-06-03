@@ -10,17 +10,17 @@ All right. All squadrons close formation and scan for hostiles. Emperor Arcturus
 
 Engage the Terran forces with care. Your priority is to protect the Chrysalis at all costs.->小心地对付人族......你的首要任||务还是保护虫蛹，它就要成熟了。||为了它全体种群都必须不惜任何代||价！
 
-               All right you sorry bastards! Fall Back!||->               可恶！所有人员注意，全体撤退，||
+All right you sorry bastards! Fall Back!||->可恶！所有人员注意，全体撤退，||
 
-               Fall Back!->               全体撤退！
+Fall Back!->全体撤退！
 
-               Hold, Cerebrate. Do not pursue them.->               停下来，脑虫。不要追赶他们！
+Hold, Cerebrate. Do not pursue them.->停下来，脑虫。不要追赶他们！
 
-               Cerebrate you must stay and relocate the ||->               脑虫，你必须待在这里，||
+Cerebrate you must stay and relocate the ||->脑虫，你必须待在这里，||
 
-               Chrysalis to a more secure location. ||->               并且把虫蛹移到一个更安全的地方。||
+Chrysalis to a more secure location. ||->并且把虫蛹移到一个更安全的地方。||
 
-               Daggoth shall deal with the remaining||->               达格斯将会替你料理残余的敌人。
+Daggoth shall deal with the remaining||->达格斯将会替你料理残余的敌人。
 
-               Terran Forces. ->               
+Terran Forces. ->
 

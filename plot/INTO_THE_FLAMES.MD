@@ -24,29 +24,29 @@ I pray we can trust you, Tassadar. Already I can sense the taint of the Fallen O
 
 My concern is for the safety of Aiur, not the judgments of the Conclave. I will return when the time is right.->我关心的是我们家乡的安全，不是||最高议会的评判！我会回来的，不||过那是在我认为时机成熟的时候！
 
-               15:00 minutes until Fenix is in position.->               到费尼克斯抵达还有15分钟.
+15:00 minutes until Fenix is in position.->到费尼克斯抵达还有15分钟.
 
-               Build a Shield Battery to ||->               传送一个护盾电池，它能够补充||
+Build a Shield Battery to ||->传送一个护盾电池，它能够补充||
 
-               recharge your units' shields.->               一定量的离子护盾。
+recharge your units' shields.->一定量的离子护盾。
 
-               Select a unit and right-click on||->               选择你的一个单位，||
+Select a unit and right-click on||->选择你的一个单位，||
 
-               the Shield Battery to recharge||->               用右键点击护盾电池补充离子护盾||
+the Shield Battery to recharge||->用右键点击护盾电池补充离子护盾||
 
-               that unit's shields.||->               　||
+that unit's shields.||->　||
 
-                    OR||->                    或||
+     OR||->     或||
 
-               Use Recharge Shields and target||->               在护盾电池中选择"补充护盾"||
+Use Recharge Shields and target||->在护盾电池中选择"补充护盾"||
 
-               an area to recharge all of your||->               并选一个区域，在附近的单位会前来||
+an area to recharge all of your||->并选一个区域，在附近的单位会前来||
 
-               units in that area.||->               自动补充。||
+units in that area.||->自动补充。||
 
-               I will remain behind and observe the effects ||->               我继续在这里并观察我们部队进攻 ||
+I will remain behind and observe the effects ||->我继续在这里并观察我们部队进攻 ||
 
-               of our attack. Return to the Citadel. I shall ||->               的状况。回到大本营。我将向你汇||
+of our attack. Return to the Citadel. I shall ||->的状况。回到大本营。我将向你汇||
 
-               notify you when the Brood becomes erratic.->               报虫类奇怪的情况。
+notify you when the Brood becomes erratic.->报虫类奇怪的情况。
 

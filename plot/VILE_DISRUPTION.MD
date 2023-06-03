@@ -32,13 +32,13 @@ This is just what I need. Cerebrate, take the few Zerg still under my control an
 
 Hives to Rescue->蜂房需要拯救
 
-               My Queen, the hive structures are not responding to the||->               我的女皇，蜂房组织对脑虫的命令没有反应。||
+My Queen, the hive structures are not responding to the||->我的女皇，蜂房组织对脑虫的命令没有反应。||
 
-               Cerebrate's commands! There is no way to reinforce your||->               我们无法增援您的勇士们。
+Cerebrate's commands! There is no way to reinforce your||->我们无法增援您的勇士们。
 
-               warriors!->               
+warriors!->
 
-               Cerebrate, you'll have to make due with the warriors you have.  ||->               脑虫，你将不得不用现有的战士们完成任务。||
+Cerebrate, you'll have to make due with the warriors you have.  ||->脑虫，你将不得不用现有的战士们完成任务。||
 
-               Slaughter the dissident Zerg in my name!->               以我的名义，杀光所有不听话的虫族！
+Slaughter the dissident Zerg in my name!->以我的名义，杀光所有不听话的虫族！
 
