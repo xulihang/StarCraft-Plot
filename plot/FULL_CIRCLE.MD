@@ -24,9 +24,9 @@ Now shall the events set into motion so long ago be made||->很久以前就开�
 
 complete. For the Protoss, too, were created by the Xel'Naga. They ||->神族与我们一样，也是由智慧生物西尔.那加所创造的。||
 
-were the first creation, gifted with a purity of form.  And we were the ||->他们是第一代创造的生物，只具有单纯的肉体形式；||
+were the first creation, gifted with a purity of form.  And we were the ||->他们是第一代创造的生物，只具有单纯的精神形式；||
 
-second creation, blessed with a purity of essence. Indeed, our two ||->而我们是第二代创造的生物，具有更纯粹的精神实质。||
+second creation, blessed with a purity of essence. Indeed, our two ||->而我们是第二代创造的生物，具有更纯粹的肉体实质。||
 
 species are but opposite facets of a greater whole. Soon shall our ||->毫无疑问，我们两个种族是另一个更为伟大种族的两面。||
 
